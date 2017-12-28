@@ -24,7 +24,7 @@ github_username:  ziruizhuang
 
 # Build settings
 markdown: kramdown
-remote_theme: cayman
+theme: cayman
 plugins:
   - jekyll-feed
 
