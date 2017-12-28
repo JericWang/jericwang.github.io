@@ -24,9 +24,12 @@ github_username:  ziruizhuang
 
 # Build settings
 markdown: kramdown
-theme: cayman
+theme: jekyll-theme-cayman
 plugins:
   - jekyll-feed
+
+github:
+  is_project_page: false
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
