@@ -15,7 +15,7 @@ Zirui Zhuang is a Ph.D. student with State Key Laboratory of Networking and Swit
 
 * **Common Knowledge Based Transfer Learning for Traffic Classification**, Yunming Xiao, Haifeng Sun, **Zirui Zhuang**, Jingyu Wang, Qi Qi, *The 43nd IEEE Conference on Local Computer Networks (LCN)*, 2018
 
-* **Tenant-oriented customized vm networking technology**, **Zirui Zhuang**, Jingyu Wang, Tong Xu, *Telecommunications Science, 31(10)*, 2015
+* **Tenant-Oriented Customized VM Networking Technology**, **Zirui Zhuang**, Jingyu Wang, Tong Xu, *Telecommunications Science, 31(10)*, 2015
 
 # Personal Interest
 An ametuer swimmer, in breaststroke, freestyle and butterfly.
