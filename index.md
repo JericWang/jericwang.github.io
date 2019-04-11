@@ -27,6 +27,13 @@ Zirui Zhuang is a Ph.D. student with State Key Laboratory of Networking and Swit
 
   Accepted by *The 43nd IEEE Conference on Local Computer Networks (LCN)*, 2018
 
+* **Smart Service Cloud Networks**,
+
+  Jingyu Wang, Jianxin Liao, Jing Wang, Qi Qi, and **Zirui Zhuang**
+
+  Book published by Posts and Telecom Press, 2017
+
+
 * **Tenant-Oriented Customized VM Networking Technology**, 
 
   **Zirui Zhuang**, Jingyu Wang, Tong Xu, 
@@ -39,7 +46,7 @@ Zirui Zhuang is a Ph.D. student with State Key Laboratory of Networking and Swit
 
 2015-2016, he was enrolled in the State Key Laboratory of Networking and Switching as an M.Phil. student in Information and Communication Engineering. He has later decided to pursue a doctorate degree.
 
-2011-2015, he studied and graduated with a Bachelor of Engineering in Engineering from the School of Information and Communication Engineering at Beijing University of Posts and Telecommunications, majoring in Electronic Information Engineering.
+2011-2015, he studied and graduated with a Bachelor of Engineering from the School of Information and Communication Engineering at Beijing University of Posts and Telecommunications, majoring in Electronic Information Engineering.
 
 # Honors and Achievements
 
@@ -51,7 +58,15 @@ Zirui Zhuang is a Ph.D. student with State Key Laboratory of Networking and Swit
 
 2014, His project “Augmented reality astronomical observation assistant” won second prize at the Undergraduate Electronic Design Contest - 2014 Intel Cup Embedded System Design Invitational Contest (coverage is top 12 percent worldwide).
 
+2014, he received the honor, Merit Student of Beijing University of Posts and Telecommunications, as an undergraduate student.
+
 2014, His project “Intelligent information publication and monitoring system based on heterogeneous terminals” won second prize at the Innovation and Entrepreneurship Program.
+
+2014, he received a Secondary Scholarship for Undergraduate Students at Beijing University of Posts and Telecommunications.
+
+2014, he piloted the team, along with Weijia Li and Wenxing Wang, and they were designated as the Meritorious Winner in the 2014 Mathematical Contest in Modeling (coverage is top 9 percent worldwide).
+
+2012, he received a Secondary Scholarship for Undergraduate Students at Beijing University of Posts and Telecommunications.
 
 # Personal Interest
 An amateur swimmer, in breaststroke, freestyle, and butterfly.
