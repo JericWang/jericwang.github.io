@@ -1,6 +1,6 @@
 ---
 ---
-Zirui Zhuang is a Ph.D. student with State Key Laboratory of Networking and Switching Technology at Beijing University of Posts and Telecommunications. His research interests include Machine Learning and Computer Networks.
+Zirui Zhuang is a Ph.D. student with State Key Laboratory of Networking and Switching Technology at Beijing University of Posts and Telecommunications under guidance of Professor Jingyu Wang. He is currently a visiting researcher at the University of Houston with Professor Zhu Han. His research interests include Machine Learning and Computer Networks. 
 
 # Research Interest
 * **Network Routing** for next-generation network infrastructures, including but not limited to software-defined networks, using Artificial Intelligence techniques. This scenario is also known as Knowledge-Defined Networking.
@@ -9,23 +9,29 @@ Zirui Zhuang is a Ph.D. student with State Key Laboratory of Networking and Swit
 
 # Publications
 
+* **Towards Greater Intelligence in Route Planning: A Graph-Aware Deep Learning Approach**,
+
+  **Zirui Zhuang**, Jingyu Wang, Qi Qi, Haifeng Sun, and Jianxin Liao, 
+
+  Article accepted by *IEEE Systems Journal*, 2019
+
 * **A Case-Based Decision System for Routing in Packet-Switched Networks**, 
 
   **Zirui Zhuang**, Jingyu Wang, Qi Qi, Haifeng Sun, and Jianxin Liao, 
 
-  Accepted by *The 37th IEEE International Performance Computing and Communications Conference (IPCCC)*, 2018
+  Conference paper in proceedings of *The 37th IEEE International Performance Computing and Communications Conference (IPCCC)*, 2018
 
 * **Graph-Aware Deep Learning Based Intelligent Routing Strategy**, 
 
   **Zirui Zhuang**, Jingyu Wang, Qi Qi, Haifeng Sun, and Jianxin Liao, 
 
-  Accepted by *The 43nd IEEE Conference on Local Computer Networks (LCN)*, 2018
+  Conference paper in proceedings of *The 43nd IEEE Conference on Local Computer Networks (LCN)*, 2018
 
 * **Common Knowledge Based Transfer Learning for Traffic Classification**, 
 
   Yunming Xiao, Haifeng Sun, **Zirui Zhuang**, Jingyu Wang, Qi Qi, 
 
-  Accepted by *The 43nd IEEE Conference on Local Computer Networks (LCN)*, 2018
+  Conference paper in proceedings of *The 43nd IEEE Conference on Local Computer Networks (LCN)*, 2018
 
 * **Smart Service Cloud Networks**,
 
@@ -38,9 +44,11 @@ Zirui Zhuang is a Ph.D. student with State Key Laboratory of Networking and Swit
 
   **Zirui Zhuang**, Jingyu Wang, Tong Xu, 
 
-  Published in *Telecommunications Science*, 31(10), 2015
+  Article published in *Telecommunications Science*, 31(10), 2015
 
-# Education
+# Education and Experiences 
+
+2019, he visits the University of Houston as an visiting researcher under supervision of Professor Zhu Han.
 
 2016-present, he is studying for a Ph.D. in Information and Communication Engineering at the State Key Laboratory of Networking and Switching, Beijing University of Posts and Telecommunications, Beijing, China.
 
