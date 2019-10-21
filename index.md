@@ -13,25 +13,31 @@ Zirui Zhuang is a Ph.D. student with State Key Laboratory of Networking and Swit
 
   **Zirui Zhuang**, Jingyu Wang, Qi Qi, Haifeng Sun, and Jianxin Liao, 
 
-  Article accepted by *IEEE Systems Journal*, 2019
+  Article accepted by *IEEE Systems Journal*, June 2019
+
+* **Deep reinforcement learning-based cooperative interactions among heterogeneous vehicular networks**
+  
+  Jingyu Wang, **Zirui Zhuang**, Qi Qi, Tonghong Li, Jianxin Liao
+
+  Article published in *Applied Soft Computing*, June 2019
 
 * **A Case-Based Decision System for Routing in Packet-Switched Networks**, 
 
   **Zirui Zhuang**, Jingyu Wang, Qi Qi, Haifeng Sun, and Jianxin Liao, 
 
-  Conference paper in proceedings of *The 37th IEEE International Performance Computing and Communications Conference (IPCCC)*, 2018
+  Conference paper in proceedings of *The 37th IEEE International Performance Computing and Communications Conference (IPCCC)*, Orlando, FL, USA, November,2018
 
 * **Graph-Aware Deep Learning Based Intelligent Routing Strategy**, 
 
   **Zirui Zhuang**, Jingyu Wang, Qi Qi, Haifeng Sun, and Jianxin Liao, 
 
-  Conference paper in proceedings of *The 43nd IEEE Conference on Local Computer Networks (LCN)*, 2018
+  Conference paper in proceedings of *The 43rd IEEE Conference on Local Computer Networks (LCN)*, Chicago, IL, USA, October 2018
 
 * **Common Knowledge Based Transfer Learning for Traffic Classification**, 
 
   Yunming Xiao, Haifeng Sun, **Zirui Zhuang**, Jingyu Wang, Qi Qi, 
 
-  Conference paper in proceedings of *The 43nd IEEE Conference on Local Computer Networks (LCN)*, 2018
+  Conference paper in proceedings of *The 43rd IEEE Conference on Local Computer Networks (LCN)*, Chicago, IL, USA, October 2018
 
 * **Smart Service Cloud Networks**,
 
