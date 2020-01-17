@@ -1,11 +1,13 @@
 ---
 ---
-Zirui Zhuang is a Ph.D. student with State Key Laboratory of Networking and Switching Technology at Beijing University of Posts and Telecommunications under guidance of Professor Jingyu Wang. He is currently a visiting researcher at the University of Houston with Professor Zhu Han. His research interests include Machine Learning and Computer Networks. 
+Zirui Zhuang is a Ph.D. student with the State Key Laboratory of Networking and Switching Technology at Beijing University of Posts and Telecommunications under guidance of Professor Jingyu Wang. In 2019, he went the University of Houston as a visiting researcher under the supervision of Professor Zhu Han. His research interests include Machine Learning and Computer Networks. 
 
 # Research Interest
 * **Network Routing** for next-generation network infrastructures, including but not limited to software-defined networks, using Artificial Intelligence techniques. This scenario is also known as Knowledge-Defined Networking.
 * **Deep Learning** application in the networking area, as in traffic identification, prediction, and topology-centric, networking related data analysis.
 * **Reinforcement Learning** application in traffic engineering, resource management, and QoS control.
+
+
 
 # Publications
 
@@ -15,11 +17,15 @@ Zirui Zhuang is a Ph.D. student with State Key Laboratory of Networking and Swit
 
   Article accepted by *IEEE Systems Journal*, June 2019
 
+  CAS JCR ranking (2019) Q1, SCIMago SJR ranking Q1
+
 * **Deep reinforcement learning-based cooperative interactions among heterogeneous vehicular networks**
   
   Jingyu Wang, **Zirui Zhuang**, Qi Qi, Tonghong Li, Jianxin Liao
 
   Article published in *Applied Soft Computing*, June 2019
+
+  CAS JCR ranking (2020) Q1, SCIMago SJR ranking Q1
 
 * **A Case-Based Decision System for Routing in Packet-Switched Networks**, 
 
@@ -54,7 +60,7 @@ Zirui Zhuang is a Ph.D. student with State Key Laboratory of Networking and Swit
 
 # Education and Experiences 
 
-2019, he visits the University of Houston as an visiting researcher under supervision of Professor Zhu Han.
+2019, he visited the University of Houston as an visiting researcher under supervision of Professor Zhu Han.
 
 2016-present, he is studying for a Ph.D. in Information and Communication Engineering at the State Key Laboratory of Networking and Switching, Beijing University of Posts and Telecommunications, Beijing, China.
 
@@ -82,5 +88,12 @@ Zirui Zhuang is a Ph.D. student with State Key Laboratory of Networking and Swit
 
 2012, he received a Secondary Scholarship for Undergraduate Students at Beijing University of Posts and Telecommunications.
 
+# Academic Services
+- Journal Reviewer
+  - Ad Hoc & Sensor Wireless Networks (SCI)
+- Conference Reviewer
+  - MobiQuitous 2019
+
 # Personal Interest
 An amateur swimmer, in breaststroke, freestyle, and butterfly.
+
