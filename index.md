@@ -11,52 +11,61 @@ Zirui Zhuang is a Ph.D. student with the State Key Laboratory of Networking and 
 
 # Publications
 
-* **Towards Greater Intelligence in Route Planning: A Graph-Aware Deep Learning Approach**,
+- Journal Articles
+    * **Towards Greater Intelligence in Route Planning: A Graph-Aware Deep Learning Approach**,
 
-  **Zirui Zhuang**, Jingyu Wang, Qi Qi, Haifeng Sun, and Jianxin Liao, 
+        **Zirui Zhuang**, Jingyu Wang, Qi Qi, Haifeng Sun, and Jianxin Liao, 
 
-  Article accepted by *IEEE Systems Journal*, June 2019
+        Article accepted by *IEEE Systems Journal*, June 2019
 
-  CAS JCR ranking (2019) Q1, SCIMago SJR ranking Q1
+        CAS JCR ranking (2019) Q1, SCIMago SJR ranking Q1
 
-* **Deep reinforcement learning-based cooperative interactions among heterogeneous vehicular networks**
+    * **Deep reinforcement learning-based cooperative interactions among heterogeneous vehicular networks**
   
-  Jingyu Wang, **Zirui Zhuang**, Qi Qi, Tonghong Li, Jianxin Liao
+        Jingyu Wang, **Zirui Zhuang**, Qi Qi, Tonghong Li, Jianxin Liao
 
-  Article published in *Applied Soft Computing*, June 2019
+        Article published in *Applied Soft Computing*, June 2019
 
-  CAS JCR ranking (2020) Q1, SCIMago SJR ranking Q1
+        CAS JCR ranking (2020) Q1, SCIMago SJR ranking Q1
+    
+    * **Tenant-Oriented Customized VM Networking Technology**, 
 
-* **A Case-Based Decision System for Routing in Packet-Switched Networks**, 
+        **Zirui Zhuang**, Jingyu Wang, Tong Xu, 
 
-  **Zirui Zhuang**, Jingyu Wang, Qi Qi, Haifeng Sun, and Jianxin Liao, 
-
-  Conference paper in proceedings of *The 37th IEEE International Performance Computing and Communications Conference (IPCCC)*, Orlando, FL, USA, November,2018
-
-* **Graph-Aware Deep Learning Based Intelligent Routing Strategy**, 
-
-  **Zirui Zhuang**, Jingyu Wang, Qi Qi, Haifeng Sun, and Jianxin Liao, 
-
-  Conference paper in proceedings of *The 43rd IEEE Conference on Local Computer Networks (LCN)*, Chicago, IL, USA, October 2018
-
-* **Common Knowledge Based Transfer Learning for Traffic Classification**, 
-
-  Yunming Xiao, Haifeng Sun, **Zirui Zhuang**, Jingyu Wang, Qi Qi, 
-
-  Conference paper in proceedings of *The 43rd IEEE Conference on Local Computer Networks (LCN)*, Chicago, IL, USA, October 2018
-
-* **Smart Service Cloud Networks**,
-
-  Jingyu Wang, Jianxin Liao, Jing Wang, Qi Qi, and **Zirui Zhuang**
-
-  Book published by Posts and Telecom Press, 2017
+        Article published in *Telecommunications Science*, 31(10), 2015
 
 
-* **Tenant-Oriented Customized VM Networking Technology**, 
+- Conference Papers
+    * **Multi-Agent Deep Reinforcement Learning for Secure UAV Communications**
 
-  **Zirui Zhuang**, Jingyu Wang, Tong Xu, 
+        Yu Zhang, **Zirui Zhuang**, Feifei Gao, Jingyu Wang, Zhu Han
 
-  Article published in *Telecommunications Science*, 31(10), 2015
+        Accepted by *IEEE Wireless Communications and Networking Conference (WCNC)*, Seoul, South Korea, April 2020
+
+    * **A Case-Based Decision System for Routing in Packet-Switched Networks**, 
+
+        **Zirui Zhuang**, Jingyu Wang, Qi Qi, Haifeng Sun, and Jianxin Liao, 
+
+        In proceedings of *The 37th IEEE International Performance Computing and Communications Conference (IPCCC)*, Orlando, FL, USA, November,2018
+
+    * **Graph-Aware Deep Learning Based Intelligent Routing Strategy**, 
+
+        **Zirui Zhuang**, Jingyu Wang, Qi Qi, Haifeng Sun, and Jianxin Liao, 
+
+        In proceedings of *The 43rd IEEE Conference on Local Computer Networks (LCN)*, Chicago, IL, USA, October 2018
+
+    * **Common Knowledge Based Transfer Learning for Traffic Classification**, 
+
+        Yunming Xiao, Haifeng Sun, **Zirui Zhuang**, Jingyu Wang, Qi Qi, 
+
+        In proceedings of *The 43rd IEEE Conference on Local Computer Networks (LCN)*, Chicago, IL, USA, October 2018
+
+- Books
+    * **Smart Service Cloud Networks**,
+
+        Jingyu Wang, Jianxin Liao, Jing Wang, Qi Qi, and **Zirui Zhuang**
+
+        Book published by Posts and Telecom Press, 2017
 
 # Education and Experiences 
 
@@ -96,4 +105,3 @@ Zirui Zhuang is a Ph.D. student with the State Key Laboratory of Networking and 
 
 # Personal Interest
 An amateur swimmer, in breaststroke, freestyle, and butterfly.
-
