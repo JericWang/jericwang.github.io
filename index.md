@@ -1,6 +1,6 @@
 ---
 ---
-Zirui Zhuang is a Ph.D. student with the State Key Laboratory of Networking and Switching Technology at Beijing University of Posts and Telecommunications under guidance of Professor Jingyu Wang. In 2019, he went the University of Houston as a visiting researcher under the supervision of Professor Zhu Han. His research interests include Machine Learning and Computer Networks. 
+Zirui Zhuang is a Ph.D. student with the State Key Laboratory of Networking and Switching Technology at Beijing University of Posts and Telecommunications under guidance of Professor [Jingyu Wang](https://teacher.bupt.edu.cn/wangjingyu/en/lwcg/59169/list/index.htm). In 2019, he went the University of Houston as a visiting researcher under the supervision of Professor [Zhu Han](http://www2.egr.uh.edu/~zhan2/). His research interests include Machine Learning and Computer Networks. 
 
 # Research Interest
 * **Network Routing** for next-generation network infrastructures, including but not limited to software-defined networks, using Artificial Intelligence techniques. This scenario is also known as Knowledge-Defined Networking.
