@@ -12,60 +12,60 @@ Zirui Zhuang is a Ph.D. student with the State Key Laboratory of Networking and 
 # Publications
 
 - Journal Articles
-    * **Towards Greater Intelligence in Route Planning: A Graph-Aware Deep Learning Approach**
+    * **Towards Greater Intelligence in Route Planning: A Graph-Aware Deep Learning Approach**,
 
         **Zirui Zhuang**, Jingyu Wang, Qi Qi, Haifeng Sun, and Jianxin Liao, 
 
-        Article accepted by *IEEE Systems Journal*, June 2019
+        Article accepted by *IEEE Systems Journal*, June 2019,
 
-        CAS JCR ranking (2019) Q1, SCIMago SJR ranking Q1
+        CAS JCR ranking (2019) Q1, SCIMago SJR ranking Q1.
 
-    * **Deep reinforcement learning-based cooperative interactions among heterogeneous vehicular networks**
+    * **Deep reinforcement learning-based cooperative interactions among heterogeneous vehicular networks**,
   
         Jingyu Wang, **Zirui Zhuang**, Qi Qi, Tonghong Li, Jianxin Liao
 
-        Article published in *Applied Soft Computing*, June 2019
+        Article published in *Applied Soft Computing*, June 2019,
 
-        CAS JCR ranking (2020) Q1, SCIMago SJR ranking Q1
+        CAS JCR ranking (2020) Q1, SCIMago SJR ranking Q1.
     
     * **Tenant-Oriented Customized VM Networking Technology**, 
 
         **Zirui Zhuang**, Jingyu Wang, Tong Xu, 
 
-        Article published in *Telecommunications Science*, 31(10), 2015
+        Article published in *Telecommunications Science*, 31(10), 2015.
 
 
 - Conference Papers
-    * **Multi-Agent Deep Reinforcement Learning for Secure UAV Communications**
+    * **Multi-Agent Deep Reinforcement Learning for Secure UAV Communications**,
 
         Yu Zhang, **Zirui Zhuang**, Feifei Gao, Jingyu Wang, Zhu Han
 
-        Accepted by *IEEE Wireless Communications and Networking Conference (WCNC)*, Seoul, South Korea, April 2020
+        Accepted by *IEEE Wireless Communications and Networking Conference (WCNC)*, Seoul, South Korea, April 2020.
 
     * **A Case-Based Decision System for Routing in Packet-Switched Networks**, 
 
         **Zirui Zhuang**, Jingyu Wang, Qi Qi, Haifeng Sun, and Jianxin Liao, 
 
-        In proceedings of *The 37th IEEE International Performance Computing and Communications Conference (IPCCC)*, Orlando, FL, USA, November 2018
+        In proceedings of *The 37th IEEE International Performance Computing and Communications Conference (IPCCC)*, Orlando, FL, USA, November 2018.
 
     * **Graph-Aware Deep Learning Based Intelligent Routing Strategy**, 
 
         **Zirui Zhuang**, Jingyu Wang, Qi Qi, Haifeng Sun, and Jianxin Liao, 
 
-        In proceedings of *The 43rd IEEE Conference on Local Computer Networks (LCN)*, Chicago, IL, USA, October 2018
+        In proceedings of *The 43rd IEEE Conference on Local Computer Networks (LCN)*, Chicago, IL, USA, October 2018.
 
     * **Common Knowledge Based Transfer Learning for Traffic Classification**, 
 
         Yunming Xiao, Haifeng Sun, **Zirui Zhuang**, Jingyu Wang, Qi Qi, 
 
-        In proceedings of *The 43rd IEEE Conference on Local Computer Networks (LCN)*, Chicago, IL, USA, October 2018
+        In proceedings of *The 43rd IEEE Conference on Local Computer Networks (LCN)*, Chicago, IL, USA, October 2018.
 
 - Books
     * **Smart Service Cloud Networks**,
 
         Jingyu Wang, Jianxin Liao, Jing Wang, Qi Qi, and **Zirui Zhuang**
 
-        Book published by Posts and Telecom Press, 2017
+        Book published by Posts and Telecom Press, 2017.
 
 # Education and Experiences 
 
@@ -119,57 +119,57 @@ An amateur swimmer, in breaststroke, freestyle, and butterfly.
 # 出版与发表
 
 - 期刊文章
-    * **Towards Greater Intelligence in Route Planning: A Graph-Aware Deep Learning Approach**
+    * **Towards Greater Intelligence in Route Planning: A Graph-Aware Deep Learning Approach**,
 
         **Zirui Zhuang**, Jingyu Wang, Qi Qi, Haifeng Sun, and Jianxin Liao, 
 
-        接收于 *IEEE Systems Journal*, 2019年06月
+        接收于 *IEEE Systems Journal*, 2019年06月,
 
-        中科院分区表 (2019.12) 一区, SCIMago SJR 分区表 Q1
+        中科院分区表 (2019.12) 一区, SCIMago SJR 分区表 Q1.
 
-    * **Deep reinforcement learning-based cooperative interactions among heterogeneous vehicular networks**
+    * **Deep reinforcement learning-based cooperative interactions among heterogeneous vehicular networks**,
   
         Jingyu Wang, **Zirui Zhuang**, Qi Qi, Tonghong Li, Jianxin Liao
 
-        发表于 *Applied Soft Computing*, 2019年06月
+        发表于 *Applied Soft Computing*, 2019年06月,
 
-        中科院分区表 (2020.01) 一区, SCIMago SJR 分区表 Q1
+        中科院分区表 (2020.01) 一区, SCIMago SJR 分区表 Q1.
     
     * **Tenant-Oriented Customized VM Networking Technology**, 
 
         **Zirui Zhuang**, Jingyu Wang, Tong Xu, 
 
-        发表于 *Telecommunications Science*, 31(10), 2015年
+        发表于 *Telecommunications Science*, 31(10), 2015年.
 
 
 - 会议论文
-    * **Multi-Agent Deep Reinforcement Learning for Secure UAV Communications**
+    * **Multi-Agent Deep Reinforcement Learning for Secure UAV Communications**,
 
         Yu Zhang, **Zirui Zhuang**, Feifei Gao, Jingyu Wang, Zhu Han
 
-        接受于 *IEEE Wireless Communications and Networking Conference (WCNC)*, 首尔，韩国，2020年04月
+        接受于 *IEEE Wireless Communications and Networking Conference (WCNC)*, 首尔，韩国，2020年04月.
 
     * **A Case-Based Decision System for Routing in Packet-Switched Networks**, 
 
         **Zirui Zhuang**, Jingyu Wang, Qi Qi, Haifeng Sun, and Jianxin Liao, 
 
-        发表于 *The 37th IEEE International Performance Computing and Communications Conference (IPCCC)*, 奥兰多, 弗罗里达, 美国, 2018年11月
+        发表于 *The 37th IEEE International Performance Computing and Communications Conference (IPCCC)*, 奥兰多, 弗罗里达, 美国, 2018年11月.
 
     * **Graph-Aware Deep Learning Based Intelligent Routing Strategy**, 
 
         **Zirui Zhuang**, Jingyu Wang, Qi Qi, Haifeng Sun, and Jianxin Liao, 
 
-        发表于 *The 43rd IEEE Conference on Local Computer Networks (LCN)*, 芝加哥, 伊利诺伊, 美国, 2018年10月
+        发表于 *The 43rd IEEE Conference on Local Computer Networks (LCN)*, 芝加哥, 伊利诺伊, 美国, 2018年10月.
 
     * **Common Knowledge Based Transfer Learning for Traffic Classification**, 
 
         Yunming Xiao, Haifeng Sun, **Zirui Zhuang**, Jingyu Wang, Qi Qi, 
 
-        发表于 *The 43rd IEEE Conference on Local Computer Networks (LCN)*, 芝加哥, 伊利诺伊, 美国, 2018年10月
+        发表于 *The 43rd IEEE Conference on Local Computer Networks (LCN)*, 芝加哥, 伊利诺伊, 美国, 2018年10月.
 
 - 专著
     * **Smart Service Cloud Networks**,
 
         Jingyu Wang, Jianxin Liao, Jing Wang, Qi Qi, and **Zirui Zhuang**
 
-        出版于 Posts and Telecom Press, 2017年
+        出版于 Posts and Telecom Press, 2017年.
