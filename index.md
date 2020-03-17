@@ -99,6 +99,7 @@ Zirui Zhuang is a Ph.D. student with the State Key Laboratory of Networking and 
 
 # Academic Services
 - Journal Reviewer
+  - IEEE Systems Journal (SCI)
   - Ad Hoc & Sensor Wireless Networks (SCI)
 - Conference Reviewer
   - MobiQuitous 2019
@@ -173,3 +174,10 @@ An amateur swimmer, in breaststroke, freestyle, and butterfly.
         Jingyu Wang, Jianxin Liao, Jing Wang, Qi Qi, and **Zirui Zhuang**
 
         出版于 Posts and Telecom Press, 2017年.
+
+# 学术服务
+- 期刊审稿
+  - IEEE Systems Journal (SCI)
+  - Ad Hoc & Sensor Wireless Networks (SCI)
+- 会议审稿
+  - MobiQuitous 2019
