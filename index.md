@@ -36,29 +36,35 @@ Zirui Zhuang is a Ph.D. student with the State Key Laboratory of Networking and 
 
 
 - Conference Papers
+    * **Adaptive and Robust Network Routing Based on Deep Reinforcement Learning with Lyapunov Optimization**
+
+        **Zirui Zhuang**, Jingyu Wang, Qi Qi, Jianxin Liao, Zhu Han
+
+        Accepted by *The 28th IEEE/ACM International Symposium on Quality of Service (IWQoS 2020)*, Hangzhou, China, June 2020.
+
     * **Multi-Agent Deep Reinforcement Learning for Secure UAV Communications**,
 
         Yu Zhang, **Zirui Zhuang**, Feifei Gao, Jingyu Wang, Zhu Han
 
-        Accepted by *IEEE Wireless Communications and Networking Conference (WCNC)*, Seoul, South Korea, April 2020.
+        Accepted by *IEEE Wireless Communications and Networking Conference 2020 (WCNC 2020)*, Seoul, South Korea, April 2020.
 
     * **A Case-Based Decision System for Routing in Packet-Switched Networks**, 
 
         **Zirui Zhuang**, Jingyu Wang, Qi Qi, Haifeng Sun, and Jianxin Liao, 
 
-        In proceedings of *The 37th IEEE International Performance Computing and Communications Conference (IPCCC)*, Orlando, FL, USA, November 2018.
+        In proceedings of *The 37th IEEE International Performance Computing and Communications Conference (IPCCC 2018)*, Orlando, FL, USA, November 2018.
 
     * **Graph-Aware Deep Learning Based Intelligent Routing Strategy**, 
 
         **Zirui Zhuang**, Jingyu Wang, Qi Qi, Haifeng Sun, and Jianxin Liao, 
 
-        In proceedings of *The 43rd IEEE Conference on Local Computer Networks (LCN)*, Chicago, IL, USA, October 2018.
+        In proceedings of *The 43rd IEEE Conference on Local Computer Networks (LCN 2018)*, Chicago, IL, USA, October 2018.
 
     * **Common Knowledge Based Transfer Learning for Traffic Classification**, 
 
         Yunming Xiao, Haifeng Sun, **Zirui Zhuang**, Jingyu Wang, Qi Qi, 
 
-        In proceedings of *The 43rd IEEE Conference on Local Computer Networks (LCN)*, Chicago, IL, USA, October 2018.
+        In proceedings of *The 43rd IEEE Conference on Local Computer Networks (LCN 2018)*, Chicago, IL, USA, October 2018.
 
 - Books
     * **Smart Service Cloud Networks**,
@@ -144,36 +150,42 @@ An amateur swimmer, in breaststroke, freestyle, and butterfly.
 
 
 - 会议论文
+    * **Adaptive and Robust Network Routing Based on Deep Reinforcement Learning with Lyapunov Optimization**
+
+        **Zirui Zhuang**, Jingyu Wang, Qi Qi, Jianxin Liao, Zhu Han
+
+        接受于 *The 28th IEEE/ACM International Symposium on Quality of Service (IWQoS 2020)*, 杭州, 中国, 2020年6月.
+
     * **Multi-Agent Deep Reinforcement Learning for Secure UAV Communications**,
 
         Yu Zhang, **Zirui Zhuang**, Feifei Gao, Jingyu Wang, Zhu Han
 
-        接受于 *IEEE Wireless Communications and Networking Conference (WCNC)*, 首尔，韩国，2020年04月.
+        接受于 *IEEE Wireless Communications and Networking Conference 2020 (WCNC 2020)*, 首尔，韩国，2020年04月.
 
     * **A Case-Based Decision System for Routing in Packet-Switched Networks**, 
 
         **Zirui Zhuang**, Jingyu Wang, Qi Qi, Haifeng Sun, and Jianxin Liao, 
 
-        发表于 *The 37th IEEE International Performance Computing and Communications Conference (IPCCC)*, 奥兰多, 弗罗里达, 美国, 2018年11月.
+        发表于 *The 37th IEEE International Performance Computing and Communications Conference (IPCCC 2018)*, 奥兰多, 弗罗里达, 美国, 2018年11月.
 
     * **Graph-Aware Deep Learning Based Intelligent Routing Strategy**, 
 
         **Zirui Zhuang**, Jingyu Wang, Qi Qi, Haifeng Sun, and Jianxin Liao, 
 
-        发表于 *The 43rd IEEE Conference on Local Computer Networks (LCN)*, 芝加哥, 伊利诺伊, 美国, 2018年10月.
+        发表于 *The 43rd IEEE Conference on Local Computer Networks (LCN 2018)*, 芝加哥, 伊利诺伊, 美国, 2018年10月.
 
     * **Common Knowledge Based Transfer Learning for Traffic Classification**, 
 
         Yunming Xiao, Haifeng Sun, **Zirui Zhuang**, Jingyu Wang, Qi Qi, 
 
-        发表于 *The 43rd IEEE Conference on Local Computer Networks (LCN)*, 芝加哥, 伊利诺伊, 美国, 2018年10月.
+        发表于 *The 43rd IEEE Conference on Local Computer Networks (LCN 2018)*, 芝加哥, 伊利诺伊, 美国, 2018年10月.
 
 - 专著
-    * **Smart Service Cloud Networks**,
+    * **智慧服务云网络**,
 
         Jingyu Wang, Jianxin Liao, Jing Wang, Qi Qi, and **Zirui Zhuang**
 
-        出版于 Posts and Telecom Press, 2017年.
+        出版于人民邮电出版社, 2017年.
 
 # 学术服务
 - 期刊审稿
