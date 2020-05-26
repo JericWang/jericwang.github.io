@@ -36,13 +36,13 @@ Zirui Zhuang is a Ph.D. student with the State Key Laboratory of Networking and 
 
 
 - Conference Papers
-    * **DeepHop on Edge: Hop-by-hop Routing by Distributed Learning with Semantic Attention**
+    * **DeepHop on Edge: Hop-by-hop Routing by Distributed Learning with Semantic Attention**,
         
         Bo He, Jingyu Wang, Qi Qi, Haifeng Sun, **Zirui Zhuang**, Jianxin Liao
 
         Accepted by *The 49th International Conference on Parallel Processing (ICPP 2020)*, Edmonton, Canada, August 2020
 
-    * **Adaptive and Robust Network Routing Based on Deep Reinforcement Learning with Lyapunov Optimization**
+    * **Adaptive and Robust Network Routing Based on Deep Reinforcement Learning with Lyapunov Optimization**,
 
         **Zirui Zhuang**, Jingyu Wang, Qi Qi, Jianxin Liao, Zhu Han
 
@@ -156,13 +156,13 @@ An amateur swimmer, in breaststroke, freestyle, and butterfly.
 
 
 - 会议论文
-    * **DeepHop on Edge: Hop-by-hop Routing by Distributed Learning with Semantic Attention**
+    * **DeepHop on Edge: Hop-by-hop Routing by Distributed Learning with Semantic Attention**,
         
         Bo He, Jingyu Wang, Qi Qi, Haifeng Sun, **Zirui Zhuang**, Jianxin Liao
 
         接收于 *The 49th International Conference on Parallel Processing (ICPP 2020)*, 埃德蒙顿, 加拿大, 2020年08月
 
-    * **Adaptive and Robust Network Routing Based on Deep Reinforcement Learning with Lyapunov Optimization**
+    * **Adaptive and Robust Network Routing Based on Deep Reinforcement Learning with Lyapunov Optimization**,
 
         **Zirui Zhuang**, Jingyu Wang, Qi Qi, Jianxin Liao, Zhu Han
 
