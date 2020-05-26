@@ -36,17 +36,23 @@ Zirui Zhuang is a Ph.D. student with the State Key Laboratory of Networking and 
 
 
 - Conference Papers
+    * **DeepHop on Edge: Hop-by-hop Routing by Distributed Learning with Semantic Attention**
+        
+        Bo He, Jingyu Wang, Qi Qi, Haifeng Sun, **Zirui Zhuang**, Jianxin Liao
+
+        Accepted by *The 49th International Conference on Parallel Processing (ICPP 2020)*, Edmonton, Canada, August 2020
+
     * **Adaptive and Robust Network Routing Based on Deep Reinforcement Learning with Lyapunov Optimization**
 
         **Zirui Zhuang**, Jingyu Wang, Qi Qi, Jianxin Liao, Zhu Han
 
-        Accepted by *The 28th IEEE/ACM International Symposium on Quality of Service (IWQoS 2020)*, Hangzhou, China, June 2020.
+        Accepted by *The 28th IEEE/ACM International Symposium on Quality of Service (IWQoS 2020)*, Virtual Conference, June 2020.
 
     * **Multi-Agent Deep Reinforcement Learning for Secure UAV Communications**,
 
         Yu Zhang, **Zirui Zhuang**, Feifei Gao, Jingyu Wang, Zhu Han
 
-        Accepted by *IEEE Wireless Communications and Networking Conference 2020 (WCNC 2020)*, Seoul, South Korea, April 2020.
+        Accepted by *IEEE Wireless Communications and Networking Conference 2020 (WCNC 2020)*, Virtual Conference, May 2020.
 
     * **A Case-Based Decision System for Routing in Packet-Switched Networks**, 
 
@@ -150,17 +156,23 @@ An amateur swimmer, in breaststroke, freestyle, and butterfly.
 
 
 - 会议论文
+    * **DeepHop on Edge: Hop-by-hop Routing by Distributed Learning with Semantic Attention**
+        
+        Bo He, Jingyu Wang, Qi Qi, Haifeng Sun, **Zirui Zhuang**, Jianxin Liao
+
+        接收于 *The 49th International Conference on Parallel Processing (ICPP 2020)*, 埃德蒙顿, 加拿大, 2020年08月
+
     * **Adaptive and Robust Network Routing Based on Deep Reinforcement Learning with Lyapunov Optimization**
 
         **Zirui Zhuang**, Jingyu Wang, Qi Qi, Jianxin Liao, Zhu Han
 
-        接受于 *The 28th IEEE/ACM International Symposium on Quality of Service (IWQoS 2020)*, 杭州, 中国, 2020年6月.
+        接受于 *The 28th IEEE/ACM International Symposium on Quality of Service (IWQoS 2020)*, 线上会议, 2020年6月.
 
     * **Multi-Agent Deep Reinforcement Learning for Secure UAV Communications**,
 
         Yu Zhang, **Zirui Zhuang**, Feifei Gao, Jingyu Wang, Zhu Han
 
-        接受于 *IEEE Wireless Communications and Networking Conference 2020 (WCNC 2020)*, 首尔，韩国，2020年04月.
+        接受于 *IEEE Wireless Communications and Networking Conference 2020 (WCNC 2020)*, 线上会议，2020年05月.
 
     * **A Case-Based Decision System for Routing in Packet-Switched Networks**, 
 
