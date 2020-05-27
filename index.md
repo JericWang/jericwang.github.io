@@ -79,6 +79,14 @@ Zirui Zhuang is a Ph.D. student with the State Key Laboratory of Networking and 
 
         Book published by Posts and Telecom Press, 2017.
 
+# Academic Services
+- Journal Reviewer
+  - IEEE Internet of Things Journal (SCI)
+  - IEEE Systems Journal (SCI)
+  - Ad Hoc & Sensor Wireless Networks (SCI)
+- Conference Reviewer
+  - MobiQuitous 2019
+
 # Education and Experiences 
 
 2019, he visited the University of Houston as an visiting researcher under supervision of Professor Zhu Han.
@@ -108,13 +116,6 @@ Zirui Zhuang is a Ph.D. student with the State Key Laboratory of Networking and 
 2014, he piloted the team, along with Weijia Li and Wenxing Wang, and they were designated as the Meritorious Winner in the 2014 Mathematical Contest in Modeling (coverage is top 9 percent worldwide).
 
 2012, he received a Secondary Scholarship for Undergraduate Students at Beijing University of Posts and Telecommunications.
-
-# Academic Services
-- Journal Reviewer
-  - IEEE Systems Journal (SCI)
-  - Ad Hoc & Sensor Wireless Networks (SCI)
-- Conference Reviewer
-  - MobiQuitous 2019
 
 # Personal Interest
 An amateur swimmer, in breaststroke, freestyle, and butterfly.
@@ -201,6 +202,7 @@ An amateur swimmer, in breaststroke, freestyle, and butterfly.
 
 # 学术服务
 - 期刊审稿
+  - IEEE Internet of Things Journal (SCI)
   - IEEE Systems Journal (SCI)
   - Ad Hoc & Sensor Wireless Networks (SCI)
 - 会议审稿
