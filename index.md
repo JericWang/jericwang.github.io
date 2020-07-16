@@ -12,11 +12,19 @@ Zirui Zhuang is a Ph.D. student with the State Key Laboratory of Networking and 
 # Publications
 
 - Journal Articles
+    * **Mean Field Deep Reinforcement Learning for Fair and Efficient UAV Control**
+        
+        Dezhi Chen, Qi Qi, **Zirui Zhuang**, Jingyu Wang, Jianxin Liao, Zhu Han,
+
+        Article published in *IEEE Internet of Things Journal*, Online July 2020
+
+        CAS JCR ranking Q1, SCIMago SJR ranking Q1.
+
     * **Towards Greater Intelligence in Route Planning: A Graph-Aware Deep Learning Approach**,
 
         **Zirui Zhuang**, Jingyu Wang, Qi Qi, Haifeng Sun, and Jianxin Liao, 
 
-        Article accepted by *IEEE Systems Journal*, June 2019,
+        Article published in *IEEE Systems Journal*, 14(2), June 2020, Online June 2019,
 
         CAS JCR ranking (2019) Q1, SCIMago SJR ranking Q1.
 
@@ -133,11 +141,19 @@ An amateur swimmer, in breaststroke, freestyle, and butterfly.
 # 出版与发表
 
 - 期刊文章
+    * **Mean Field Deep Reinforcement Learning for Fair and Efficient UAV Control**
+        
+        Dezhi Chen, Qi Qi, **Zirui Zhuang**, Jingyu Wang, Jianxin Liao, Zhu Han,
+
+        发表于 *IEEE Internet of Things Journal*, 在线2020年7月,
+
+        CAS JCR ranking Q1, SCIMago SJR ranking Q1.
+
     * **Towards Greater Intelligence in Route Planning: A Graph-Aware Deep Learning Approach**,
 
         **Zirui Zhuang**, Jingyu Wang, Qi Qi, Haifeng Sun, and Jianxin Liao, 
 
-        接收于 *IEEE Systems Journal*, 2019年06月,
+        发表于 *IEEE Systems Journal*, 14(2), 2020年6月, 在线2019年06月,
 
         中科院分区表 (2019.12) 一区, SCIMago SJR 分区表 Q1.
 
