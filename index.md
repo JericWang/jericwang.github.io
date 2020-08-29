@@ -92,6 +92,7 @@ Zirui Zhuang is a Ph.D. student with the State Key Laboratory of Networking and 
   - IEEE Journal on Selected Areas in Communications (SCI)
   - IEEE Internet of Things Journal (SCI)
   - IEEE Systems Journal (SCI)
+  - Scientific Reports (SCI)
   - Ad Hoc & Sensor Wireless Networks (SCI)
 - Conference Reviewer
   - IEEE ICCC 2020
@@ -223,6 +224,7 @@ An amateur swimmer, in breaststroke, freestyle, and butterfly.
   - IEEE Journal on Selected Areas in Communications (SCI)
   - IEEE Internet of Things Journal (SCI)
   - IEEE Systems Journal (SCI)
+  - Scientific Reports (SCI)
   - Ad Hoc & Sensor Wireless Networks (SCI)
 - 会议审稿
   - IEEE ICCC 2020
