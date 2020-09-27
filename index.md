@@ -20,7 +20,7 @@ Zirui Zhuang is a Ph.D. student with the State Key Laboratory of Networking and 
 
         CAS JCR ranking Q1, SCIMago SJR ranking Q1.
 
-    * **Towards Greater Intelligence in Route Planning: A Graph-Aware Deep Learning Approach**,
+    * **Toward Greater Intelligence in Route Planning: A Graph-Aware Deep Learning Approach**,
 
         **Zirui Zhuang**, Jingyu Wang, Qi Qi, Haifeng Sun, and Jianxin Liao, 
 
@@ -152,7 +152,7 @@ An amateur swimmer, in breaststroke, freestyle, and butterfly.
 
         CAS JCR ranking Q1, SCIMago SJR ranking Q1.
 
-    * **Towards Greater Intelligence in Route Planning: A Graph-Aware Deep Learning Approach**,
+    * **Toward Greater Intelligence in Route Planning: A Graph-Aware Deep Learning Approach**,
 
         **Zirui Zhuang**, Jingyu Wang, Qi Qi, Haifeng Sun, and Jianxin Liao, 
 
