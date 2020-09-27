@@ -18,7 +18,7 @@ Zirui Zhuang is a Ph.D. student with the State Key Laboratory of Networking and 
 
         Article published in *IEEE Internet of Things Journal*, Online July 2020
 
-        CAS JCR ranking Q1, SCIMago SJR ranking Q1.
+        CAS JCR ranking Q1, SCIMago SJR ranking Q1. [[Electronic version via DOI]](https://doi.org/10.1109/JIOT.2020.3008299)
 
     * **Toward Greater Intelligence in Route Planning: A Graph-Aware Deep Learning Approach**,
 
@@ -26,7 +26,7 @@ Zirui Zhuang is a Ph.D. student with the State Key Laboratory of Networking and 
 
         Article published in *IEEE Systems Journal*, 14(2), June 2020, Online June 2019,
 
-        CAS JCR ranking (2019) Q1, SCIMago SJR ranking Q1.
+        CAS JCR ranking (2019) Q1, SCIMago SJR ranking Q1. [[Electronic version via DOI]](https://doi.org/10.1109/JSYST.2019.2922217)
 
     * **Deep reinforcement learning-based cooperative interactions among heterogeneous vehicular networks**,
   
@@ -34,13 +34,13 @@ Zirui Zhuang is a Ph.D. student with the State Key Laboratory of Networking and 
 
         Article published in *Applied Soft Computing*, June 2019,
 
-        CAS JCR ranking (2020) Q1, SCIMago SJR ranking Q1.
+        CAS JCR ranking (2020) Q1, SCIMago SJR ranking Q1. [[Electronic version via DOI]](https://doi.org/10.1016/j.asoc.2019.105557) 
     
     * **Tenant-Oriented Customized VM Networking Technology**, 
 
         **Zirui Zhuang**, Jingyu Wang, Tong Xu, 
 
-        Article published in *Telecommunications Science*, 31(10), 2015.
+        Article published in *Telecommunications Science*, 31(10), 2015. [[Electronic version via DOI]](https://doi.org/10.11959/j.issn.1000-0801.2015267) 
 
 
 - Conference Papers
@@ -150,7 +150,7 @@ An amateur swimmer, in breaststroke, freestyle, and butterfly.
 
         发表于 *IEEE Internet of Things Journal*, 在线2020年7月,
 
-        CAS JCR ranking Q1, SCIMago SJR ranking Q1.
+        CAS JCR ranking Q1, SCIMago SJR ranking Q1. [[电子版本DOI链接]](https://doi.org/10.1109/JIOT.2020.3008299)
 
     * **Toward Greater Intelligence in Route Planning: A Graph-Aware Deep Learning Approach**,
 
@@ -158,7 +158,7 @@ An amateur swimmer, in breaststroke, freestyle, and butterfly.
 
         发表于 *IEEE Systems Journal*, 14(2), 2020年6月, 在线2019年06月,
 
-        中科院分区表 (2019.12) 一区, SCIMago SJR 分区表 Q1.
+        中科院分区表 (2019.12) 一区, SCIMago SJR 分区表 Q1. [[电子版本DOI链接]](https://doi.org/10.1109/JSYST.2019.2922217)
 
     * **Deep reinforcement learning-based cooperative interactions among heterogeneous vehicular networks**,
   
@@ -166,13 +166,13 @@ An amateur swimmer, in breaststroke, freestyle, and butterfly.
 
         发表于 *Applied Soft Computing*, 2019年06月,
 
-        中科院分区表 (2020.01) 一区, SCIMago SJR 分区表 Q1.
+        中科院分区表 (2020.01) 一区, SCIMago SJR 分区表 Q1. [[电子版本DOI链接]](https://doi.org/10.1016/j.asoc.2019.105557) 
     
     * **Tenant-Oriented Customized VM Networking Technology**, 
 
         **Zirui Zhuang**, Jingyu Wang, Tong Xu, 
 
-        发表于 *Telecommunications Science*, 31(10), 2015年.
+        发表于 *Telecommunications Science*, 31(10), 2015年. [[电子版本DOI链接]](https://doi.org/10.11959/j.issn.1000-0801.2015267) 
 
 
 - 会议论文
