@@ -12,11 +12,19 @@ Zirui Zhuang is a Ph.D. student with the State Key Laboratory of Networking and 
 # Publications
 
 - Journal Articles
+    * **Scalable Parallel Task Scheduling for Autonomous Driving Using Multi-Task Deep Reinforcement Learning**
+        Qi Qi, Lingxin Zhang, Jingyu Wang, Haifeng Sun, **Zirui Zhuang**, Jianxin Liao, Richard Yu,
+        
+        Article accepted by *IEEE Transactions on Vehicular Technology*, 2020
+
+        CAS JCR ranking Q2, SCIMago SJR ranking Q1.
+
+
     * **Mean Field Deep Reinforcement Learning for Fair and Efficient UAV Control**
         
         Dezhi Chen, Qi Qi, **Zirui Zhuang**, Jingyu Wang, Jianxin Liao, Zhu Han,
 
-        Article published in *IEEE Internet of Things Journal*, Online July 2020
+        Article to appear in *IEEE Internet of Things Journal*, Early access online July 2020
 
         CAS JCR ranking Q1, SCIMago SJR ranking Q1. [[Electronic version via DOI]](https://doi.org/10.1109/JIOT.2020.3008299)
 
@@ -144,6 +152,13 @@ An amateur swimmer, in breaststroke, freestyle, and butterfly.
 # 出版与发表
 
 - 期刊文章
+    * **Scalable Parallel Task Scheduling for Autonomous Driving Using Multi-Task Deep Reinforcement Learning**
+        Qi Qi, Lingxin Zhang, Jingyu Wang, Haifeng Sun, **Zirui Zhuang**, Jianxin Liao, Richard Yu,
+        
+        接收于 *IEEE Transactions on Vehicular Technology*, 2020
+
+        中科院分区表二区, SCIMago SJR 分区表 Q1.
+
     * **Mean Field Deep Reinforcement Learning for Fair and Efficient UAV Control**
         
         Dezhi Chen, Qi Qi, **Zirui Zhuang**, Jingyu Wang, Jianxin Liao, Zhu Han,
