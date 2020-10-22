@@ -12,6 +12,13 @@ Zirui Zhuang is a Ph.D. student with the State Key Laboratory of Networking and 
 # Publications
 
 - Journal Articles
+    * **Adaptive and Robust Routing with Lyapunov-Based Deep RL in MEC Networks Enabled by Blockchains**
+        **Zirui Zhuang**, Jingyu Wang, Qi Qi, Jianxin Liao, Zhu Han,
+
+        Article accepted by *IEEE Internet of Things Journal*, 2020
+
+        CAS JCR ranking Q1, SCIMago SJR ranking Q1.
+
     * **Scalable Parallel Task Scheduling for Autonomous Driving Using Multi-Task Deep Reinforcement Learning**
         Qi Qi, Lingxin Zhang, Jingyu Wang, Haifeng Sun, **Zirui Zhuang**, Jianxin Liao, Richard Yu,
         
@@ -152,6 +159,13 @@ An amateur swimmer, in breaststroke, freestyle, and butterfly.
 # 出版与发表
 
 - 期刊文章
+    * **Adaptive and Robust Routing with Lyapunov-Based Deep RL in MEC Networks Enabled by Blockchains**
+        **Zirui Zhuang**, Jingyu Wang, Qi Qi, Jianxin Liao, Zhu Han,
+
+        接收于 *IEEE Internet of Things Journal*, 2020
+
+        中科院分区表一区, SCIMago SJR ranking Q1.
+
     * **Scalable Parallel Task Scheduling for Autonomous Driving Using Multi-Task Deep Reinforcement Learning**
         Qi Qi, Lingxin Zhang, Jingyu Wang, Haifeng Sun, **Zirui Zhuang**, Jianxin Liao, Richard Yu,
         
