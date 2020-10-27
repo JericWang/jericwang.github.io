@@ -16,7 +16,7 @@ Zirui Zhuang is a Ph.D. student with the State Key Laboratory of Networking and 
 
         **Zirui Zhuang**, Jingyu Wang, Qi Qi, Jianxin Liao, Zhu Han,
 
-        Article accepted by *IEEE Internet of Things Journal*, 2020
+        To appear in *IEEE Internet of Things Journal*, 2020,
 
         CAS JCR ranking Q1, SCIMago SJR ranking Q1.
 
@@ -24,16 +24,16 @@ Zirui Zhuang is a Ph.D. student with the State Key Laboratory of Networking and 
     
         Qi Qi, Lingxin Zhang, Jingyu Wang, Haifeng Sun, **Zirui Zhuang**, Jianxin Liao, Richard Yu,
         
-        Article accepted by *IEEE Transactions on Vehicular Technology*, 2020
+        Article published in *IEEE Transactions on Vehicular Technology*, early access, online October 2020,
 
-        CAS JCR ranking Q2, SCIMago SJR ranking Q1.
+        CAS JCR ranking Q2, SCIMago SJR ranking Q1. [[Electronic version via DOI]](https://doi.org/10.1109/TVT.2020.3029864)
 
 
     * **Mean Field Deep Reinforcement Learning for Fair and Efficient UAV Control**
         
         Dezhi Chen, Qi Qi, **Zirui Zhuang**, Jingyu Wang, Jianxin Liao, Zhu Han,
 
-        Article to appear in *IEEE Internet of Things Journal*, Early access online July 2020
+        Article published in *IEEE Internet of Things Journal*, early access online July 2020,
 
         CAS JCR ranking Q1, SCIMago SJR ranking Q1. [[Electronic version via DOI]](https://doi.org/10.1109/JIOT.2020.3008299)
 
@@ -165,7 +165,7 @@ An amateur swimmer, in breaststroke, freestyle, and butterfly.
 
         **Zirui Zhuang**, Jingyu Wang, Qi Qi, Jianxin Liao, Zhu Han,
 
-        接收于 *IEEE Internet of Things Journal*, 2020
+        即将发表于 *IEEE Internet of Things Journal*, 2020,
 
         中科院分区表一区, SCIMago SJR ranking Q1.
 
@@ -173,9 +173,9 @@ An amateur swimmer, in breaststroke, freestyle, and butterfly.
 
         Qi Qi, Lingxin Zhang, Jingyu Wang, Haifeng Sun, **Zirui Zhuang**, Jianxin Liao, Richard Yu,
         
-        接收于 *IEEE Transactions on Vehicular Technology*, 2020
+        发表于 *IEEE Transactions on Vehicular Technology*, 在线2020年10月,
 
-        中科院分区表二区, SCIMago SJR 分区表 Q1.
+        中科院分区表二区, SCIMago SJR 分区表 Q1. [[电子版本DOI链接]](https://doi.org/10.1109/TVT.2020.3029864) 
 
     * **Mean Field Deep Reinforcement Learning for Fair and Efficient UAV Control**
         
