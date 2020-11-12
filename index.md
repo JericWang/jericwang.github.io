@@ -2,6 +2,8 @@
 ---
 Zirui Zhuang is a Ph.D. student with the State Key Laboratory of Networking and Switching Technology at Beijing University of Posts and Telecommunications under guidance of Professor [Jingyu Wang](https://teacher.bupt.edu.cn/wangjingyu/en/lwcg/59169/list/index.htm). In 2019, he went to the University of Houston as a visiting researcher under the supervision of Professor [Zhu Han](http://www2.egr.uh.edu/~zhan2/). His research interests include Machine Learning and Computer Networks. 
 
+On November 12, 2020, he successfully defended his Ph.D. dissertation. 
+
 # Research Interest
 * **Network Routing** for next-generation network infrastructures, including but not limited to software-defined networks, using Artificial Intelligence techniques. This scenario is also known as Knowledge-Defined Networking.
 * **Deep Learning** application in the networking area, as in traffic identification, prediction, and topology-centric, networking related data analysis.
@@ -152,6 +154,8 @@ An amateur swimmer, in breaststroke, freestyle, and butterfly.
 ---
 
 庄子睿，北京邮电大学，网络与交换国家重点实验室博士研究生，师从导师[王敬宇](https://teacher.bupt.edu.cn/wangjingyu/zh_CN/index.htm)教授。2019年，他作为访问学者在美国休斯顿大学接受[韩竹](http://www2.egr.uh.edu/~zhan2/)教授的指导。他的研究兴趣包含机器学习和计算机网络。
+
+2020年11月12日，他成功地完成了博士论文答辩。
 
 # 研究方向
 * **网络路由**
