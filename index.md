@@ -18,9 +18,9 @@ On November 12, 2020, he successfully defended his Ph.D. dissertation.
 
         **Zirui Zhuang**, Jingyu Wang, Qi Qi, Jianxin Liao, Zhu Han,
 
-        To appear in *IEEE Internet of Things Journal*, 2020,
+        Article published in *IEEE Internet of Things Journal*, 2020,
 
-        CAS JCR ranking Q1, SCIMago SJR ranking Q1.
+        CAS JCR ranking Q1, SCIMago SJR ranking Q1. [[Electronic version via DOI]](https://doi.org/10.1109/JIOT.2020.3034601) 
 
     * **Scalable Parallel Task Scheduling for Autonomous Driving Using Multi-Task Deep Reinforcement Learning**
     
@@ -169,9 +169,9 @@ An amateur swimmer, in breaststroke, freestyle, and butterfly.
 
         **Zirui Zhuang**, Jingyu Wang, Qi Qi, Jianxin Liao, Zhu Han,
 
-        即将发表于 *IEEE Internet of Things Journal*, 2020,
+        发表于 *IEEE Internet of Things Journal*, 2020,
 
-        中科院分区表一区, SCIMago SJR ranking Q1.
+        中科院分区表一区, SCIMago SJR 分区表 Q1. [[电子版本DOI链接]](https://doi.org/10.1109/JIOT.2020.3034601) 
 
     * **Scalable Parallel Task Scheduling for Autonomous Driving Using Multi-Task Deep Reinforcement Learning**
 
