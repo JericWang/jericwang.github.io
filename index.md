@@ -26,7 +26,7 @@ On November 12, 2020, he successfully defended his Ph.D. dissertation.
     
         Qi Qi, Lingxin Zhang, Jingyu Wang, Haifeng Sun, **Zirui Zhuang**, Jianxin Liao, Richard Yu,
         
-        Article published in *IEEE Transactions on Vehicular Technology*, early access, online October 2020,
+        Article published in *IEEE Transactions on Vehicular Technology*, 69(11), November 2020, Online October 2020,
 
         CAS JCR ranking Q2, SCIMago SJR ranking Q1. [[Electronic version via DOI]](https://doi.org/10.1109/TVT.2020.3029864)
 
@@ -177,7 +177,7 @@ An amateur swimmer, in breaststroke, freestyle, and butterfly.
 
         Qi Qi, Lingxin Zhang, Jingyu Wang, Haifeng Sun, **Zirui Zhuang**, Jianxin Liao, Richard Yu,
         
-        发表于 *IEEE Transactions on Vehicular Technology*, 在线2020年10月,
+        发表于 *IEEE Transactions on Vehicular Technology*, 69(11), 2020年11月, 在线2020年10月,
 
         中科院分区表二区, SCIMago SJR 分区表 Q1. [[电子版本DOI链接]](https://doi.org/10.1109/TVT.2020.3029864) 
 
