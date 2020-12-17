@@ -24,19 +24,8 @@
       <div class="title">{{entry.title}}</div>
       <div class="author">
         {% for author in entry.author_array %}
-          {% if author.last == site.scholar.last_name %}
-          {% assign lastname_match = true %}
-          {% else %}
-          {% assign lastname_match = false %}
-          {% endif %}
-          {% if author.first == site.scholar.first_name %}
-          {% assign firstname_match = true %}
-          {% else %}
-          {% assign firstname_match = false %}
-          {% endif %}
-
           {% if forloop.length == 1 %}
-            {% if lastname_match && firstname_match %}
+            {% if author.last == site.scholar.last_name and author.first == site.scholar.first_name %}
               <em>{{author.last}}, {{author.first}}</em>
             {% else %}
               {{author.last}}, {{author.first}}
@@ -44,7 +33,7 @@
           {% else %}
             {% capture fullname %}{{ author.last }}, {{ author.first }}{% endcapture %}
             {% unless forloop.last %}
-              {% if lastname_match && firstname_match %}
+              {% if author.last == site.scholar.last_name and author.first == site.scholar.first_name %}
                 <em>{{author.last}}, {{author.first}}</em>,
               {% else %}
                 {% if site.data.coauthors[fullname] %}
@@ -54,7 +43,7 @@
                 {% endif %}
               {% endif %}
             {% else %}
-              {% if lastname_match && firstname_match %}
+              {% if author.last == site.scholar.last_name and author.first == site.scholar.first_name %}
                 and <em>{{author.last}}, {{author.first}}</em>
               {% else %}
                 {% if site.data.coauthors[fullname] %}
