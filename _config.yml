@@ -126,6 +126,7 @@ plugins:
 scholar:
 
   last_name: Zhuang
+  first_name: Zirui
 
   style: apa
   locale: en
