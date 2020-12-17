@@ -86,7 +86,7 @@
       {% if entry.number %}
       ({{ entry.number }})
       {% endif %}
-      {% if entry.pages %}
+      {% if entry.pages and entry.type == "article" %}
       , pp. {{ entry.pages }}
       {% endif %}
       ,

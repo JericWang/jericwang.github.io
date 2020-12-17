@@ -8,7 +8,7 @@ profile:
   align: right
   image: prof_pic.jpg
   address: >
-    <p>511 New Reseaerch Building </p>
+    <p>511 Reseaerch Building </p>
     <p>XiTuCheng Rd. #10</p>
     <p>Beijing, China, 100876</p>
 
