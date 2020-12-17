@@ -17,7 +17,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Zirui Zhuang received his B.Eng. in electronic information engineering, and Ph.D. in information and communication engineering from Beijing University of Posts and Telecommunications[[中文]](http://www.bupt.edu.cn/)[[English]](https://english.bupt.edu.cn/), in 2015 and 2020, respectively. He is advised by Professor [Jingyu Wang](https://teacher.bupt.edu.cn/wangjingyu/en/lwcg/59169/list/index.htm) during his course of Ph.D. study. 
+Zirui Zhuang received his B.Eng. in electronic information engineering, and Ph.D. in information and communication engineering from Beijing University of Posts and Telecommunications[[中文]](http://www.bupt.edu.cn/)[[English]](https://english.bupt.edu.cn/), in 2015 and 2020, respectively. He is advised by Professor [Jingyu Wang](https://teacher.bupt.edu.cn/wangjingyu/en/lwcg/59169/list/index.htm) during the course of his Ph.D. study. 
 
 He currently is with the State Key Laboratory of Networking and Switching Technology[[中文]](http://sklnst.bupt.edu.cn/)[[English]](https://sklnst-en.bupt.edu.cn/). He is also with the [School of Computer Science](https://scs.bupt.edu.cn/) starting from 2020. He was also with the [Institute of Network Technology](https://int.bupt.edu.cn/) from 2015 to 2020. 
 
