@@ -12,8 +12,6 @@
   --global-footer-link-color: #{$white-color};
   --global-icon-color: #{$grey-color-dark};
 
-  --global-rank-color:#{$red-color-dark};
-  
   .fa-sun {
     display : none;
   }
@@ -33,8 +31,6 @@ html[data-theme='dark'] {
   --global-footer-text-color: #{$grey-color-dark};
   --global-footer-link-color: #{$black-color};
   --global-icon-color: navajowhite;
-
-  --global-rank-color:#{$red-color};
 
   .fa-sun {
     padding-left: 10px;

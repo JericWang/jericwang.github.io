@@ -23,14 +23,16 @@ last_updated: false # set to true if you want to display last updated in the foo
 
 navbar_fixed: true
 footer_fixed: true
+
+# Dimensions
+max_width: 1280px
+
 # TODO: add layout settings (single page vs. multi-page)
 
 # -----------------------------------------------------------------------------
 # Open Graph
 # -----------------------------------------------------------------------------
 # Display links to the page with a preview object on social media.
-# To achieve this, change serve_og_meta to true and then provide the URL of the
-# preview image as the value of og_image.
 serve_og_meta: false # Include Open Graph meta tags in the HTML head
 og_image: # The site-wide (default for all links) Open Graph preview image
 
@@ -48,11 +50,13 @@ quora_username: # your Quora username
 publons_id: 3464192
 research_gate_profile: # your profile on ResearchGate
 blogger_url: # your blogger URL
+work_url: # work page URL
 keybase_username: # your keybase user name
 
 contact_note: >
 
 google_analytics: G-FSWTF4P2ZS # out your google-analytics code
+panelbear_analytics:  # panelbear analytics site ID
 
 # -----------------------------------------------------------------------------
 # Blog
@@ -126,7 +130,7 @@ plugins:
 scholar:
 
   last_name: Zhuang
-  first_name: Zirui
+  first_name: [Zirui]
 
   style: apa
   locale: en
@@ -153,10 +157,11 @@ scholar:
 # -----------------------------------------------------------------------------
 
 enable_google_analytics:  true
+enable_panelbear_analytics: false
 enable_mansory:           true
 enable_math:              true
 enable_tooltips:          false
-enable_darkmode:          false
+enable_darkmode:          true
 show_social_icons:        false
 
 
