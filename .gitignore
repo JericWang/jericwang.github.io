@@ -1,5 +1,6 @@
 
 *.bak
+*.sav
 _site
 .bundle
 .sass-cache
