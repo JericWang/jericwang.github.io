@@ -14,6 +14,9 @@
   - firstname: ["Jingyu"]
     url: https://teacher.bupt.edu.cn/wangjingyu/en/lwcg/59169/list/index.htm
 
+  - firstname: ["Li-Chun", "Lichun"]
+    url: https://scholar.google.com/citations?user=dtD-PIAAAAAJ&hl=en
+
 "Qi":
   - firstname: ["Qi"]
     url: https://int.bupt.edu.cn/content/content.php?p=6_16_166
@@ -21,6 +24,10 @@
 "Yu":
   - firstname: ["F Richard"]
     url: https://www.csit.carleton.ca/~fyu/
+
+"Lent":
+  - firstname: ["Ricardo"]
+    url: https://uh.edu/~rlent/
 
 "Li":
   - firstname: ["Tonghong"]
@@ -34,3 +41,6 @@
   - firstname: ["Feifei"]
     url: https://thurid.lib.tsinghua.edu.cn/scholar/654908
     
+"Zhang":
+  - firstname: ["Lingxin"]
+    url: https://www.researchgate.net/profile/Lingxin_Zhang3
