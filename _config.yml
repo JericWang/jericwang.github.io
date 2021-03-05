@@ -86,6 +86,9 @@ collections:
   projects:
     output: false
     permalink: /projects/:path/
+  grants:
+    output: true
+    permalink: /grants/:path/
 
 news_limit: 10
 

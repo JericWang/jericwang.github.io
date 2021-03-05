@@ -15,6 +15,7 @@ profile:
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
+grants: true
 ---
 
 Zirui Zhuang received his B.Eng. in electronic information engineering, and Ph.D. in information and communication engineering from Beijing University of Posts and Telecommunications[[中文]](http://www.bupt.edu.cn/)[[English]](https://english.bupt.edu.cn/), in 2015 and 2020, respectively. He is advised by Professor [Jingyu Wang](https://teacher.bupt.edu.cn/wangjingyu/en/lwcg/59169/list/index.htm) during the course of his Ph.D. study. 
