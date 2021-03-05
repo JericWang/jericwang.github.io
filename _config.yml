@@ -16,6 +16,7 @@ footer_text: >
 url:  # the base hostname & protocol for your site
 baseurl: / # the subpath of your site, e.g. /blog/
 last_updated: false # set to true if you want to display last updated in the footer
+impressum_path:  # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
 
 # -----------------------------------------------------------------------------
 # Layout
@@ -52,6 +53,7 @@ research_gate_profile: # your profile on ResearchGate
 blogger_url: # your blogger URL
 work_url: # work page URL
 keybase_username: # your keybase user name
+wikidata_id: # your wikidata id
 
 contact_note: >
 
@@ -112,7 +114,15 @@ kramdown:
 
 # Includes & excludes
 include: ['_pages']
-exclude: [vendor]
+exclude:
+  - bin
+  - Gemfile
+  - Gemfile.lock
+  - vendor
+keep_files:
+  - CNAME
+  - .nojekyll
+  - .git
 
 # Plug-ins
 plugins:
@@ -123,8 +133,6 @@ plugins:
   - jekyll-twitter-plugin
   - jekyll-seo-tag
   - jemoji
-  # - bootstrap
-  # - material-sass
 
 # -----------------------------------------------------------------------------
 # Jekyll Scholar
