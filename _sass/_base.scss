@@ -165,6 +165,17 @@ a, table.table a {
   color: var(--global-text-color);
 }
 
+// Grants
+
+.grants table td {
+  font-size: 1rem;
+  color: var(--global-text-color);
+}
+
+.grants table th {
+  color: var(--global-text-color);
+}
+
 // Social (bottom)
 
 .social {
