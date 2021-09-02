@@ -37,6 +37,10 @@
   - firstname: ["Jianxin"]
     url: https://int.bupt.edu.cn/content/content.php?p=6_16_159
 
+"Liu":
+  - firstname: ["Alex X."]
+    url: https://scholar.google.com/citations?user=qRjO51UAAAAJ&hl=zh-CN&oi=ao
+
 "Gao":
   - firstname: ["Feifei"]
     url: https://thurid.lib.tsinghua.edu.cn/scholar/654908
@@ -44,3 +48,6 @@
 "Zhang":
   - firstname: ["Lingxin"]
     url: https://www.researchgate.net/profile/Lingxin_Zhang3
+
+  - firstname: ["Yu"]
+    url: https://scholar.google.com/citations?user=w4vnlFEAAAAJ&hl=zh-CN
