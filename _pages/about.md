@@ -33,6 +33,7 @@ He is an active member of computer communication and signal processing communiti
  - IEEE Internet of Things Journal 
  - IEEE Systems Journal 
  - Scientific Reports 
+ - SN Applied Sciences
  - Ad Hoc & Sensor Wireless Networks 
  - IEEE ICCC 2020
  - MobiQuitous 2019
