@@ -35,6 +35,8 @@ He is an active member of computer communication and signal processing communiti
  - Scientific Reports 
  - SN Applied Sciences
  - Ad Hoc & Sensor Wireless Networks 
+ - Artificial Intelligence In Medicine
+ - Results in Control and Optimization
  - Journal of Communications and Networks
  - IEEE ICCC 2020
  - MobiQuitous 2019
