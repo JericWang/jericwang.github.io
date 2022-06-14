@@ -8,7 +8,7 @@ profile:
   align: right
   image: prof_pic.jpg
   address: >
-    <p>511 Reseaerch Building </p>
+    <p>511 Research Building </p>
     <p>XiTuCheng Rd. #10</p>
     <p>Beijing, China, 100876</p>
 
@@ -29,14 +29,19 @@ His research interests include network routing and management for next generatio
 Recently, he has been focusing on the design of Knowledge-Defined Networking (KDN) framework which employs artificial intelligence (AI) for the next-generation networks (AI4Network), in settings of wired computer networks as well as wireless communication networks. The integration of knowledge promotes profound intelligence in networked systems by acquisition, extraction, optimization, and application of the best practices of network control and resource management. This new paradigm demands for more advanced theory, techniques, and procedures in the aspects of sensing, modelling, decision making, and interpretation, where the combination of human intelligence and artificial intelligence is a must. While there has been a trending research interest over the convergence of communication, computation, and control, the era of KDN and AI4Network is still at its early stage. There are broad but challenging research opportunities to be explored. 
 
 He is an active member of computer communication and signal processing communities. He joined the IEEE as a Graduate Student Member in 2018, and he became a professional Member in 2020. He is a reviwer for many high impact journals and international conferences, such as 
- - IEEE Journal on Selected Areas in Communications 
- - IEEE Internet of Things Journal 
- - IEEE Systems Journal 
- - Scientific Reports 
- - SN Applied Sciences
- - Ad Hoc & Sensor Wireless Networks 
- - Artificial Intelligence In Medicine
- - Results in Control and Optimization
+ - IEEE Journal on Selected Areas in Communications
+ - IEEE Internet of Things Journal
+ - IEEE Systems Journal
+ - IEEE Transactions on Mobile Computing
+ - IEEE Communications Letters
+ - Future Generation Computer Systems
+ - Ad Hoc & Sensor Wireless Networks
  - Journal of Communications and Networks
+ - Scientific Reports
+ - SN Applied Sciences
+ - Artificial Intelligence in Medicine
+ - Results in Control and Optimization
+ - IEEE WCNC 2022
+ - IEEE WCNC 2021 Workshops
  - IEEE ICCC 2020
  - MobiQuitous 2019
