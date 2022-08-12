@@ -32,6 +32,8 @@
 "Li":
   - firstname: ["Tonghong"]
     url: https://dblp.org/pid/98/4254.html
+  - firstname: ["Lixiang"]
+    url: https://scholar.google.com/citations?hl=en&user=xXyZ2VkAAAAJ
 
 "Liao":
   - firstname: ["Jianxin"]
@@ -51,3 +53,7 @@
 
   - firstname: ["Yu"]
     url: https://scholar.google.com/citations?user=w4vnlFEAAAAJ&hl=zh-CN
+
+"Yang":
+  - firstname: ["Yixian"]
+    url: https://scholar.google.com/citations?hl=en&user=L8ZiCeUAAAAJ
