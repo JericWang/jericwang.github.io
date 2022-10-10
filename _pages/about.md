@@ -37,6 +37,7 @@ He is an active member of computer communication and signal processing communiti
  - Future Generation Computer Systems
  - Ad Hoc & Sensor Wireless Networks
  - Journal of Communications and Networks
+ - Springer Journal of Cloud Computing: Advances, Systems and Applications
  - Scientific Reports
  - SN Applied Sciences
  - Artificial Intelligence in Medicine
