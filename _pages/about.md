@@ -7,6 +7,7 @@ description: Ph.D.
 profile:
   align: right
   image: prof_pic.jpg
+  image_circular: false # crops the image to make it circular
   address: >
     <p>511 Research Building </p>
     <p>XiTuCheng Rd. #10</p>
