@@ -155,16 +155,16 @@
           {%- capture entryyear -%}{{ " " }}{{entry.year}}{%- endcapture -%}
         {%- endif -%}
         {% assign entrytype_text = entrytype | strip_html | strip %}
-        {%- capture periodical -%}{{ entrytype }}{%- if entrytype_text != "" and entryyear != "" -%}, {%- endif -%}
-        {% if entry.volume %}
+        {%- capture periodical -%}{{ entrytype }}{%- if entrytype_text != "" and entryyear != "" -%}, {% endif -%}
+        {%- if entry.volume -%}
         vol. {{ entry.volume }}, 
-        {% endif %}
-        {% if entry.number %}
-        ({{ entry.number }})
-        {% endif %}
-        {% if entry.pages and entry.type == "article" %}
+        {% endif -%}
+        {%- if entry.number -%}
+        ({{ entry.number }}), 
+        {% endif -%}
+        {%- if entry.pages and entry.type == "article" -%}
         pp. {{ entry.pages }}, 
-        {% endif %}
+        {%- endif -%}
         {{ entrymonth }}{{ entryyear }}
         {%- endcapture -%}
         <div class="periodical">
