@@ -15,15 +15,11 @@
     url: https://teacher.bupt.edu.cn/wangjingyu/en/lwcg/59169/list/index.htm
 
   - firstname: ["Li-Chun", "Lichun"]
-    url: https://scholar.google.com/citations?user=dtD-PIAAAAAJ&hl=en
+    url: https://scholar.google.com/citations?user=dtD-PIAAAAAJ
 
 "Qi":
   - firstname: ["Qi"]
     url: https://int.bupt.edu.cn/content/content.php?p=6_16_166
-
-"Yu":
-  - firstname: ["F Richard"]
-    url: https://www.csit.carleton.ca/~fyu/
 
 "Lent":
   - firstname: ["Ricardo"]
@@ -41,7 +37,7 @@
 
 "Liu":
   - firstname: ["Alex X."]
-    url: https://scholar.google.com/citations?user=qRjO51UAAAAJ&hl=zh-CN&oi=ao
+    url: https://scholar.google.com/citations?user=qRjO51UAAAAJ
 
 "Gao":
   - firstname: ["Feifei"]
@@ -52,12 +48,23 @@
     url: https://www.researchgate.net/profile/Lingxin_Zhang3
 
   - firstname: ["Yu"]
-    url: https://scholar.google.com/citations?user=w4vnlFEAAAAJ&hl=zh-CN
+    url: https://scholar.google.com/citations?user=w4vnlFEAAAAJ
+
+  - firstname : ["Long"]
+    url: https://scholar.google.com/citations?user=v6LnsZ0AAAAJ
 
 "Yang":
   - firstname: ["Yixian"]
     url: https://scholar.google.com/citations?hl=en&user=L8ZiCeUAAAAJ
 
 "Yu":
-  - firstname: ["F. Richard", "Fei Richard"]
+  - firstname: ["F. Richard", "Fei Richard", "F Richard"]
     url: https://www.csit.carleton.ca/~fyu/
+
+"Sharma":
+  - firstname: ["Vishal"]
+    url: https://scholar.google.com/citations?hl=en&user=7whtsiEAAAAJ
+
+"Xu":
+  - firstname: ["Haitao"]
+    url: https://scholar.google.com/citations?user=BJabAAkAAAAJ
