@@ -6,7 +6,7 @@ description: Ph.D.
 
 profile:
   align: right
-  image: example.jpg # in assets folder
+  image: profilepic.jpg # in assets folder
   image_circular: false # crops the image to make it circular
   address: >
     <p>511 Research Building </p>
