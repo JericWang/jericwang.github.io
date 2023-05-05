@@ -2,9 +2,9 @@
   type: map
   contents:
     - name: Full Name
-      value: Zirui Zhuang
+      value: Jingyu Wang
     - name: Date of Birth
-      value: January 1993
+      value: 
     - name: Languages
       value: Chinese, English
 
@@ -13,53 +13,49 @@
   contents:
     - title: Ph.D.
       institution: Beijing University of Posts and Telecommunications, Beijing, China
-      year: 2020
+      year: 
       description:
         - Information and Communication Engineering.
-    - title: Bachelor
-      institution: Beijing University of Posts and Telecommunications, Beijing, China
-      year: 2015
-      description:
-        - Electronic Information Engineering.
+    
 
 - title: Experience
   type: time_table
   contents:
-    - title: Associate Researcher
+    - title: Title 1
       institution: Beijing University of Posts and Telecommunications, Beijing, China
-      year: 2023-to date
-    - title: Postdoctoral Research Fellow
+      year: 1111-2222
+    - title: Title 2
       institution: Beijing University of Posts and Telecommunications, Beijing, China
-      year: 2021-2023
+      year: 1111-2222
       description:
-        - AI for Network.
-        - Network routing and slicing。
-        - Edge networks.
-    - title: Visiting Scholar
-      institution: University of Houston, Texas, US
-      year: 2019
+        - AAAAAAAAAAAAAAAAA.
+        - BBBBBBBBBBBBBBBB。
+        - CCCCCCCCCCCCCCCCC.
+    - title: Title 3
+      institution: DDDDDDDDDDDDDDDDDDDD
+      year: 3333
       description:
-        - Network routing, resource allocation and UAV.
+        - EEEEEEEEEEEEEEEEEEEEEEEEEEEE.
 
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 2018
+    - year: 1111
       items: 
-          - National Scholarship of China for PhD Students
+          - FFFFFFFFF
           - contents:
-            - Ministry of Education of the People's Republic of China
-            - Top 0.2 percent nationwide
-    - year: 2014
+            - GGGGGGGGGG
+            - HHHHHHHHHHHHHHH
+    - year: 2222
       items: 
-        - Second Prize, Electronic Design Contest - 2014 Intel Cup Embedded System Design Invitational Contest
+        - AAAAAAAAAAAAAAAAA
         - contents:
-            - Top 12 percent worldwide
-        - Meritorious Winner, 2014 Mathematical Contest in Modeling
+            - AAAAAAAAAAAAAAAAA
+        - AAAAAAAAAAAAAAAAA
         - contents:
-            - Top 9 percent worldwide
+            - AAAAAAAAAAAAAAAAA
 
 - title: Other Interests
   type: list
   contents:
-    - <u>Hobbies:</u> Swimming, Cycling, etc.
+    - AAAAAAAAAAAAAAAAA
