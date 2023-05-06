@@ -12,6 +12,7 @@ profile:
     <p>511 Research Building </p>
     <p>XiTuCheng Rd. #10</p>
     <p>Beijing, China, 100876</p>
+    <p>wangjingyu@bupt.edu.cn</p>
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
