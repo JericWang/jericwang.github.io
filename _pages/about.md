@@ -8,9 +8,9 @@ profile:
   align: right
   image: profilepic.jpg # in assets folder
   image_circular: false # crops the image to make it circular
-  address: >
+  email: >
     <p>wangjingyu@bupt.edu.cn</p>
-    <p></p>
+  address: >  
     <p>511 Research Building </p>
     <p>XiTuCheng Rd. #10</p>
     <p>Beijing, China, 100876</p>
