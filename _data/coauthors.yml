@@ -19,7 +19,7 @@
 
 "Qi":
   - firstname: ["Qi"]
-    url: https://int.bupt.edu.cn/content/content.php?p=6_16_166
+    url: https://teacher.bupt.edu.cn/qiqi
 
 "Lent":
   - firstname: ["Ricardo"]
@@ -33,7 +33,7 @@
 
 "Liao":
   - firstname: ["Jianxin"]
-    url: https://int.bupt.edu.cn/content/content.php?p=6_16_159
+    url: https://kyy.bupt.edu.cn/info/1014/3341.htm
 
 "Liu":
   - firstname: ["Alex X."]
@@ -72,4 +72,13 @@
 "Zhuang":
   - firstname: ["Zirui"]
     url: https://ziruizhuang.github.io
+    
+"Song":
+  - firstname: ["Guo"]
+    url: https://www4.comp.polyu.edu.hk/~cssongguo/
+ 
+ "Alex X.":
+  - firstname: ["Liu"]
+    url: http://alexliucs.gitee.io/
+    
     
