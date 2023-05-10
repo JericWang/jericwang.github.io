@@ -18,7 +18,8 @@ profile:
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
-grants: true
+grants: true  # includes a list of project items
+
 ---
 
 Jingyu (Jeric) Wang is a Professor of <a href="https://www.bupt.edu.cn/">Beijing University of Posts and Telecommunications (BUPT)</a>, Network Intelligence Research Center (NIRC) in the <a href="https://sklnst.bupt.edu.cn/">State Key Laboratory of Networking and Switching Technology</a>, and leader of the <b>Intelligence of Everthing (IE Corps)</b>. He received his PhD degree from Beijing University of Posts and Telecommunications in 2008. He has been selected for the "<b>Beijing Young Talents Plan</b>", "<b>Nanjing Zijin Mountain Talent Plan</b>", is an IEEE Senior Member, a senior member of the China Institute of Communications, the leader of <a href="https://www.6g-ana.com/">6GANA</a> TG5 (Intelligent Control).
