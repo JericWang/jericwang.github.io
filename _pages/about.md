@@ -30,6 +30,5 @@ He has published more than 200 academic papers, including IEEE ToN, JSAC, TMC, T
 
 He enjoy solving practical and challenging problems in engineering, leveraging the advantages of integration in production, education, research, and application. By emphasizing both engineering and research, He had implemented the large-scale application of several new theoretical results. He had been honored with two prizes for Scientific and Technological Progress from the <a href="https://www.china-cic.cn/">China Institute of Communications</a>, and two prizes for Scientific and Technological Progress from the <a href="http://en.moe.gov.cn/">Ministry of Education</a>.
 
-He is teaching cutting-edge interdisciplinary courses such as "<b>Intelligent Transportation and Autonomous Driving</b>" as well as computer science courses like "<b>Software-Defined Network Technology</b>" and "<b>Next-Generation Internet Technology and Protocols</b>". 
 
 
