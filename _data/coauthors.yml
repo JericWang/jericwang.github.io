@@ -17,10 +17,6 @@
   - firstname: ["Li-Chun", "Lichun"]
     url: https://scholar.google.com/citations?user=dtD-PIAAAAAJ
 
-"Qi":
-  - firstname: ["Qi"]
-    url: https://teacher.bupt.edu.cn/qiqi
-
 "Lent":
   - firstname: ["Ricardo"]
     url: https://uh.edu/~rlent/
@@ -30,10 +26,6 @@
     url: https://dblp.org/pid/98/4254.html
   - firstname: ["Lixiang"]
     url: https://scholar.google.com/citations?hl=en&user=xXyZ2VkAAAAJ
-
-"Liao":
-  - firstname: ["Jianxin"]
-    url: https://kyy.bupt.edu.cn/info/1014/3341.htm
 
 "Liu":
   - firstname: ["Alex X."]
