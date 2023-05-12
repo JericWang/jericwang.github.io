@@ -10,6 +10,7 @@ profile:
   image_circular: false # crops the image to make it circular
   address: >  
     <p>wangjingyu@bupt.edu.cn</p>
+    
     <p>511 Research Building </p>
     <p>XiTuCheng Rd. #10</p>
     <p>Beijing, China, 100876</p>
@@ -22,7 +23,7 @@ grants: true  # includes a list of project items
 
 ---
 
-Jingyu (Jeric) Wang is a Professor of <a href="https://www.bupt.edu.cn/">Beijing University of Posts and Telecommunications (BUPT)</a>, Network Intelligence Research Center (NIRC) in the <a href="https://sklnst.bupt.edu.cn/">State Key Laboratory of Networking and Switching Technology</a>, and leader of the <b>Intelligence of Everthing (IE Corps, 万物有灵战队)</b>. He received his PhD degree from Beijing University of Posts and Telecommunications in 2008. He has been selected for the "<b>Beijing Young Talents Plan</b>", "<b>Nanjing Zijin Mountain Talent Plan</b>", is an IEEE Senior Member, a senior member of the China Institute of Communications, the leader of <a href="https://www.6g-ana.com/">6GANA</a> TG5 (Intelligent Control).
+Jingyu (Jeric) Wang is a Professor of <a href="https://www.bupt.edu.cn/">Beijing University of Posts and Telecommunications (BUPT)</a>, Network Intelligence Research Center (NIRC) in the <a href="https://sklnst.bupt.edu.cn/">State Key Laboratory of Networking and Switching Technology</a>, and leader of the <b>Intelligence of Everthing (IE Corps, 万物有灵战队)</b>. He received his PhD degree from Beijing University of Posts and Telecommunications in 2008. He has been selected for the "<b>Beijing Young Talents Plan</b>", "<b>Nanjing Zijin Mountain Talent Plan</b>", is an IEEE Senior Member, a senior member of the <a href="https://www.china-cic.cn/">China Institute of Communications</a>, the leader of <a href="https://www.6g-ana.com/">6GANA</a> TG5 (Intelligent Control).
 
 He has long been engaged in scientific research in <b>intelligent networks, machine learning, and edge computing</b>, and has established the basic theory and implementation framework of autonomous networks, achieving a series of representative results including knowledge-defined networks, AIOps, intent translation, Gesture interaction, intelligent vehicle networking, and multi-path transmission. As project leader, he has presided over four <a href="https://www.nsfc.gov.cn/">National Natural Science Foundation</a> projects and one National 973 Program project (Smart Service Mechanisms and Theory), and led more than ten industrial projects with the Beijing Natural Science Foundation, Huawei, National Computer Network Emergency Response Technical (CNCERT), State Grid, China Mobile, Meituan and so on. 
 
