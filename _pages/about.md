@@ -32,5 +32,5 @@ He enjoy solving practical and challenging problems in engineering, leveraging t
 
 He is teaching cutting-edge interdisciplinary courses such as "<b>Intelligent Transportation and Autonomous Driving</b>" as well as computer science courses like <b>Software-Defined Network Technology</b> and <b>Next-Generation Internet Technology and Protocols</b>. 
 
-He was honored with the title of "<b>Outstanding Master's Thesis Guidance Teacher</b>" by BUPT in 2020, "<b>Outstanding Undergraduate Thesis Guidance Teacher</b>" by both Beijing and BUPT in 2022. Under his leadership, his team has won numerous championships in renowned competitions such as AITrans, AIOps, ACM MM, SemEval, FGVC, and ICCV Hands.
+Under his leadership, his team has won numerous championships in renowned competitions such as AITrans, AIOps, ACM MM, SemEval, FGVC, and ICCV Hands. He was honored with the title of "<b>Outstanding Master's Thesis Guidance Teacher</b>" by BUPT in 2020, "<b>Outstanding Undergraduate Thesis Guidance Teacher</b>" by both Beijing and BUPT in 2022. 
 
