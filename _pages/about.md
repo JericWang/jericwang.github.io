@@ -9,7 +9,7 @@ profile:
   image: profilepic.jpg # in assets folder
   image_circular: false # crops the image to make it circular
   address: >  
-    <p>Email: wangjingyu@bupt.edu.cn</p>
+    <p>wangjingyu@bupt.edu.cn</p>
     
     <p>Office: Room 511 Research Building </p>
     <p>XiTuCheng Rd. #10</p>
