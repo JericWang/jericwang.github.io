@@ -6,7 +6,7 @@ description: Ph.D.
 
 profile:
   align: right
-  image: JericPic.png # in assets folder
+  image: profilepic.jpg # in assets folder
   image_circular: false # crops the image to make it circular
   address: >  
     <p>wangjingyu@bupt.edu.cn</p>
