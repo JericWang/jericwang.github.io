@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2023-01-19 00:00:00-0000
+date: 2023-04-9 00:00:00-0000
 inline: true
 ---
-One of our paper has been accepted by  [2023 IEEE International Conference on Communications (ICC)](https://icc2023.ieee-icc.org/). 
+One of our paper has been accepted by  [2023 ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR’23)](https://sigir.org/sigir2023/). 
