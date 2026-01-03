@@ -24,7 +24,9 @@ social: true  # includes social icons at the bottom of the page
 ---
 
 Jingyu (Jeric) Wang is a Tenured Professor of School of Computer Science, <a href="https://www.bupt.edu.cn/">Beijing University of Posts and Telecommunications (BUPT)</a>, 
+
 Director, Network Intelligence Research Center (NIRC) in the <a href="https://sklnst.bupt.edu.cn/">State Key Laboratory of Networking and Switching Technology</a>.
+
 Lead, Intelligent Everything  (IE Corps, 万物有灵战队) | Team Homepage: <a href="https://nirc.top/">https://nirc.top/</a>
 
 <font size="6">Biography & Research Interests</font>
@@ -34,51 +36,73 @@ With a dual background in industry and academia, Professor Wang focuses on the i
 <font size="6">His representative achievements span across:</font>
 
 Computing-Aware Networking (CAN) & Multi-Agent Networking
+
 Intent Configuration Generation & Intelligent Operations and Maintenance (AIOps)
+
 Knowledge-Defined Networking (KDN)
+
 Bare-hand Interaction & Intelligent Model Acceleration
+
 Multi-path Transmission
 
 <font size="6">Honors & Professional Services</font>
 
 Professor Wang is a recipient of the Changjiang Scholar award (Ministry of Education) and a Fellow of the <a href="https://www.china-cic.cn/">China Institute of Communications</a>. He is consistently ranked among Stanford’s World’s Top 2% Scientists.
+
 Expert Roles: Honorarily Appointed Expert for China Mobile; Huawei Think Tank Expert; Review Expert for the NSFC, Ministry of Science and Technology, and Ministry of Education.
 
 <font size="6">Leadership in Professional Organizations:</font>
 
 Chair of TG5 and TSC Member of <a href="https://www.6g-ana.com/">6GANA</a>.
+
 Vice Chair of AI Edge TG2.
-Director/Board Member: International Society of Intelligent Networking and Systems (INSAI); Global Network Innovation Alliance (NIDA); Software Defined Interconnection Technology and Industry Alliance.
+
+Director/Board Member: International Society of Intelligent Networking and Systems (INSAI); Global Network Innovation Alliance (NIDA); 
+Software Defined Interconnection Technology and Industry Alliance.
+
 Committee Member: Computing Power Network/Digital Twin Committees of CIC; Computing Power Network Committee of the China Information Association.
 
 <font size="6">Research Projects & Industrial Impact</font>
 
 Professor Wang has served as the Principal Investigator (PI) for over 10 national and ministerial-level projects, including the National Key R&D Program, NSFC Key Projects, and the National 973 Program. He has also led over 20 industrialization projects for giants such as Huawei, China Mobile, State Grid, and Meituan.
+
 His team has been recognized as an Innovation Team by the Ministry of Education and an Innovation Group by the NSFC. His "Intelligent Network Management and Control System" has seen large-scale deployment across 15 provincial units, including China Mobile and China Unicom.
 
 <font size="6">Key Awards:</font>
 
 1*State Science and Technology Progress Award (Second Class).
+
 3*CIC Science and Technology Progress Awards (First Class).
+
 2*Ministry of Education Science and Technology Progress Awards (Second Class).
+
 1*Beijing Science and Technology Progress Award (Second Class).
 
 <font size="6">Publications & Academic Achievements</font>
 
 He has published over 300 high-level papers in top-tier (CCF-A) journals and conferences, including:
-Journals: IEEE ToN, JSAC, TPDS, TDSC, TMC, TKDE, TIP, TSE, TSC, ACM TACO.
-Conferences: USENIX NSDI, ATC; ACM SIGCOMM, ASPLOS, SIGMOD, EuroSys, CSCW, EuroSys; IEEE INFOCOM; NeurIPS, ACL, CVPR.
+
+Journals: IEEE ToN, JSAC, TPDS, TDSC, TMC, TKDE, TIP, TSE, TSC, ACM TACO and so on.
+
+Conferences: USENIX NSDI, ATC; ACM SIGCOMM, ASPLOS, SIGMOD, EuroSys, CSCW, EuroSys; IEEE INFOCOM; NeurIPS, ACL, CVPR and so on.
 
 <font size="6">Notable Milestones:</font>
 
 Published BUPT’s first-ever papers in premier global venues such as NSDI, ASPLOS, SIGMOD, EuroSys, and CSCW.
+
 AAAI 2023 Distinguished Paper Award.
+
 IEEE Systems Journal 2021 Best Paper Award.
+
 Author of multiple ESI Highly Cited Papers.
+
 Intellectual Property: 5 authorized U.S. patents, 50+ authorized Chinese patents, and 10+ standardized contributions (3GPP, IETF, ETSI, CCSA).
+
 Books: Author of Intelligent Service Cloud Networks, Key Technologies for 6G Network On-demand Services, and Deep Reinforcement Learning in Network Intelligence.
+
 Open Source: Lead contributor to OPNFV Compass (OpenStack community) and contributor to the TVM machine learning compiler.
-Competitions: Led teams to multiple championships in international competitions including AITrans, ACM MM, SemEval, and Apollo.
+
+Competitions: Led teams to multiple championships in international competitions including AITrans、ACM MM、ACM MMSys、SemEval、ICCV Hands、Apollo and so on.
 
 
 <font size="6">teaching</font>
