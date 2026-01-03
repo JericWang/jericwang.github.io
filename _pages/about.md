@@ -47,7 +47,9 @@ Multi-path Transmission
 
 <font size="6">Honors & Professional Services:</font>
 
-Professor Wang is a recipient of the Changjiang Scholar award (Ministry of Education) and a Fellow of the <a href="https://www.china-cic.cn/">China Institute of Communications</a>. He is consistently ranked among Stanford’s World’s Top 2% Scientists.
+Professor Wang is the <b>Changjiang Scholar </b> (Ministry of Education) and Fellow of the <a href="https://www.china-cic.cn/">China Institute of Communications</a>. 
+
+He is consistently ranked among Stanford’s World’s Top 2% Scientists.
 
 Expert Roles: 
 
@@ -78,7 +80,7 @@ His team has been recognized as an Innovation Team by the Ministry of Education 
 
 <font size="6">Key Awards:</font>
 
-1*State Science and Technology Progress Award.
+<b>1*State Science and Technology Progress Award.</b>
 
 3*CIC Science and Technology Progress Awards.
 
