@@ -23,10 +23,80 @@ social: true  # includes social icons at the bottom of the page
 
 ---
 
-Jingyu (Jeric) Wang is a Professor of <a href="https://www.bupt.edu.cn/">Beijing University of Posts and Telecommunications (BUPT)</a>, Network Intelligence Research Center (NIRC) in the <a href="https://sklnst.bupt.edu.cn/">State Key Laboratory of Networking and Switching Technology</a>.
-He lead the <b>Intelligence of Everthing (IE Corps, 万物有灵战队)</b>. He has been selected for the "<b>Beijing Young Talents Plan</b>", "<b>Nanjing Zijin Mountain Talent Plan</b>", is an IEEE Senior Member, a senior member of the <a href="https://www.china-cic.cn/">China Institute of Communications</a>, the leader of <a href="https://www.6g-ana.com/">6GANA</a> TG5 (Intelligent Control).
+Jingyu (Jeric) Wang is a Tenured Professor of School of Computer Science, <a href="https://www.bupt.edu.cn/">Beijing University of Posts and Telecommunications (BUPT)</a>, 
+Director, Network Intelligence Research Center (NIRC) in the <a href="https://sklnst.bupt.edu.cn/">State Key Laboratory of Networking and Switching Technology</a>.
+Lead, Intelligent Everything  (IE Corps, 万物有灵战队) | Team Homepage: https://nirc.top/
 
-He received his PhD degree from Beijing University of Posts and Telecommunications in 2008. He has long been engaged in scientific research in <b>intelligent networks, machine learning, and edge computing</b>, and has established the basic theory and implementation framework of autonomous networks, achieving a series of representative achievements including <a>knowledge-defined networks, AIOps, intent translation, Gesture interaction, intelligent vehicle networking, and multi-path transmission</a>. 
+Biography & Research Interests
+	With a dual background in industry and academia, Professor Wang focuses on the intersection of Communication Networks and Artificial Intelligence. His research emphasizes understanding human-computer interaction and control decision-making, advancing the theoretical framework and engineering practice of the transition from the Internet of Everything (IoE) to Intent-Driven Networking (IDN).
+
+His representative achievements span across:
+
+	Computing-Aware Networking (CAN) & Multi-Agent Networking
+	
+	Intent Configuration Generation & Intelligent Operations and Maintenance (AIOps)
+	
+	Knowledge-Defined Networking (KDN)
+	
+	Bare-hand Interaction & Intelligent Model Acceleration
+
+Multi-path Transmission
+
+Honors & Professional Services
+	Professor Wang is a recipient of the Changjiang Scholar award (Ministry of Education) and a Fellow of the <a href="https://www.china-cic.cn/">China Institute of Communications</a>. He is consistently ranked among Stanford’s World’s Top 2% Scientists.
+	
+	Expert Roles: Honorarily Appointed Expert for China Mobile; Huawei Think Tank Expert; Review Expert for the NSFC, Ministry of Science and Technology, and Ministry of Education.
+
+Leadership in Professional Organizations:
+
+	Chair of TG5 and TSC Member of <a href="https://www.6g-ana.com/">6GANA</a>.
+	
+	Vice Chair of AI Edge TG2.
+	
+	Director/Board Member: International Society of Intelligent Networking and Systems (INSAI); Global Network Innovation Alliance (NIDA); Software Defined Interconnection Technology and Industry Alliance.
+	
+	Committee Member: Computing Power Network/Digital Twin Committees of CIC; Computing Power Network Committee of the China Information Association.
+
+Research Projects & Industrial Impact
+	Professor Wang has served as the Principal Investigator (PI) for over 10 national and ministerial-level projects, including the National Key R&D Program, NSFC Key Projects, and the National 973 Program. He has also led over 20 industrialization projects for giants such as Huawei, China Mobile, State Grid, and Meituan.
+	
+	His team has been recognized as an Innovation Team by the Ministry of Education and an Innovation Group by the NSFC. His "Intelligent Network Management and Control System" has seen large-scale deployment across 15 provincial units, including China Mobile and China Unicom.
+
+Key Awards:
+
+	1 State Science and Technology Progress Award (Second Class).
+	
+	3 CIC Science and Technology Progress Awards (First Class).
+	
+	2 Ministry of Education Science and Technology Progress Awards (Second Class).
+	
+	1 Beijing Science and Technology Progress Award (Second Class).
+
+Publications & Academic Achievements
+He has published over 300 high-level papers in top-tier (CCF-A) journals and conferences, including:
+
+	Journals: IEEE ToN, JSAC, TPDS, TDSC, TMC, TKDE, TIP, TSE, TSC, ACM TACO.
+	
+	Conferences: USENIX NSDI, ATC; ACM SIGCOMM, ASPLOS, SIGMOD, EuroSys, CSCW, EuroSys; IEEE INFOCOM; NeurIPS, ACL, CVPR.
+
+Notable Milestones:
+
+	Published BUPT’s first-ever papers in premier global venues such as NSDI, ASPLOS, SIGMOD, EuroSys, and CSCW.
+
+	AAAI 2023 Distinguished Paper Award.
+
+		IEEE Systems Journal 2021 Best Paper Award.
+
+	Author of multiple ESI Highly Cited Papers.
+
+	Intellectual Property: 5 authorized U.S. patents, 50+ authorized Chinese patents, and 10+ standardized contributions (3GPP, IETF, ETSI, CCSA).
+
+	Books: Author of Intelligent Service Cloud Networks, Key Technologies for 6G Network On-demand Services, and Deep Reinforcement Learning in Network Intelligence.
+
+	Open Source: Lead contributor to OPNFV Compass (OpenStack community) and contributor to the TVM machine learning compiler.
+
+	Competitions: Led teams to multiple championships in international competitions including AITrans, ACM MM, SemEval, and Apollo.
+
 
 As project leader, he has presided over four <a href="https://www.nsfc.gov.cn/">National Natural Science Foundation</a> projects and one National 973 Program project (Smart Service Mechanisms and Theory), and led more than ten industrial projects with the Beijing Natural Science Foundation, Huawei, National Computer Network Emergency Response Technical (CNCERT), State Grid, China Mobile, Meituan, etc. 
 
