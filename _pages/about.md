@@ -66,7 +66,7 @@ Vice Chair of AI Edge TG2.
 Director/Board Member: International Society of Intelligent Networking and Systems (INSAI); Global Network Innovation Alliance (NIDA); 
 Software Defined Interconnection Technology and Industry Alliance.
 
-Committee Member: Computing Power Network/Digital Twin Committees of CIC; Computing Power Network Committee of the China Information Association.
+Committee Member: Computing Power Network and Digital Twin Committees of CIC; Computing Power Network Committee of the China Information Association.
 
 <font size="6">Research Projects & Industrial Impact:</font>
 
@@ -113,7 +113,7 @@ Open Source: Lead contributor to OPNFV Compass (OpenStack community) and contrib
 Competitions: Led teams to multiple championships in international competitions including AITrans、ACM MM、ACM MMSys、SemEval、ICCV Hands、Apollo and so on.
 
 
-<font size="6">teaching</font>
+<font size="6">teaching:</font>
 
 He is teaching cutting-edge interdisciplinary courses such as "<b>Intelligent Transportation and Autonomous Driving</b>" as well as computer science courses like <b>Software-Defined Network Technology</b> and <b>Next-Generation Internet Technology and Protocols</b>. 
 
