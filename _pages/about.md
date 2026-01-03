@@ -29,7 +29,7 @@ Director, Network Intelligence Research Center (NIRC) in the <a href="https://sk
 
 Lead, Intelligent Everything  (IE Corps, 万物有灵战队) | Team Homepage: <a href="https://nirc.top/">https://nirc.top/</a>
 
-<font size="6">Biography & Research Interests</font>
+<font size="6">Biography & Research Interests:</font>
 
 With a dual background in industry and academia, Professor Wang focuses on the intersection of Communication Networks and Artificial Intelligence. His research emphasizes understanding human-computer interaction and control decision-making, advancing the theoretical framework and engineering practice of the transition from the Internet of Everything (IoE) to Intent-Driven Networking (IDN).
 
@@ -45,11 +45,17 @@ Bare-hand Interaction & Intelligent Model Acceleration
 
 Multi-path Transmission
 
-<font size="6">Honors & Professional Services</font>
+<font size="6">Honors & Professional Services:</font>
 
 Professor Wang is a recipient of the Changjiang Scholar award (Ministry of Education) and a Fellow of the <a href="https://www.china-cic.cn/">China Institute of Communications</a>. He is consistently ranked among Stanford’s World’s Top 2% Scientists.
 
-Expert Roles: Honorarily Appointed Expert for China Mobile; Huawei Think Tank Expert; Review Expert for the NSFC, Ministry of Science and Technology, and Ministry of Education.
+Expert Roles: 
+
+Honorarily Appointed Expert for China Mobile; 
+
+Huawei Think Tank Expert; 
+
+Review Expert for the NSFC, Ministry of Science and Technology, and Ministry of Education.
 
 <font size="6">Leadership in Professional Organizations:</font>
 
@@ -62,9 +68,11 @@ Software Defined Interconnection Technology and Industry Alliance.
 
 Committee Member: Computing Power Network/Digital Twin Committees of CIC; Computing Power Network Committee of the China Information Association.
 
-<font size="6">Research Projects & Industrial Impact</font>
+<font size="6">Research Projects & Industrial Impact:</font>
 
-Professor Wang has served as the Principal Investigator (PI) for over 10 national and ministerial-level projects, including the National Key R&D Program, NSFC Key Projects, and the National 973 Program. He has also led over 20 industrialization projects for giants such as Huawei, China Mobile, State Grid, and Meituan.
+Professor Wang has served as the Principal Investigator (PI) for over 10 national and ministerial-level projects, including the National Key R&D Program, NSFC Key Projects, and the National 973 Program. 
+
+He has also led over 20 industrialization projects for giants such as Huawei, China Mobile, State Grid, and Meituan.
 
 His team has been recognized as an Innovation Team by the Ministry of Education and an Innovation Group by the NSFC. His "Intelligent Network Management and Control System" has seen large-scale deployment across 15 provincial units, including China Mobile and China Unicom.
 
@@ -78,7 +86,7 @@ His team has been recognized as an Innovation Team by the Ministry of Education 
 
 1*Beijing Science and Technology Progress Award (Second Class).
 
-<font size="6">Publications & Academic Achievements</font>
+<font size="6">Publications & Academic Achievements:</font>
 
 He has published over 300 high-level papers in top-tier (CCF-A) journals and conferences, including:
 
