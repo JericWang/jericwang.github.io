@@ -98,7 +98,7 @@ Conferences: USENIX NSDI, ATC; ACM SIGCOMM, ASPLOS, SIGMOD, EuroSys, CSCW, EuroS
 
 Published BUPT’s first-ever papers in premier global venues such as NSDI, ASPLOS, SIGMOD, EuroSys, and CSCW.
 
-<b>AAAI 2023 Distinguished Paper Award.</a>
+<b>AAAI 2023 Distinguished Paper Award.</b>
 
 IEEE Systems Journal 2021 Best Paper Award.
 
