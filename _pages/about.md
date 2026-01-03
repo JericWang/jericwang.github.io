@@ -78,13 +78,13 @@ His team has been recognized as an Innovation Team by the Ministry of Education 
 
 <font size="6">Key Awards:</font>
 
-1*State Science and Technology Progress Award (Second Class).
+1*State Science and Technology Progress Award.
 
-3*CIC Science and Technology Progress Awards (First Class).
+3*CIC Science and Technology Progress Awards.
 
-2*Ministry of Education Science and Technology Progress Awards (Second Class).
+2*Ministry of Education Science and Technology Progress Awards.
 
-1*Beijing Science and Technology Progress Award (Second Class).
+1*Beijing Science and Technology Progress Award.
 
 <font size="6">Publications & Academic Achievements:</font>
 
@@ -98,7 +98,7 @@ Conferences: USENIX NSDI, ATC; ACM SIGCOMM, ASPLOS, SIGMOD, EuroSys, CSCW, EuroS
 
 Published BUPT’s first-ever papers in premier global venues such as NSDI, ASPLOS, SIGMOD, EuroSys, and CSCW.
 
-AAAI 2023 Distinguished Paper Award.
+<b>AAAI 2023 Distinguished Paper Award.</a>
 
 IEEE Systems Journal 2021 Best Paper Award.
 
