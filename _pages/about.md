@@ -72,7 +72,9 @@ Professor Wang has served as the Principal Investigator (PI) for over 10 nationa
 
 He has also led over 20 industrialization projects for giants such as Huawei, China Mobile, State Grid, and Meituan.
 
-His team has been recognized as an Innovation Team by the Ministry of Education and an Innovation Group by the NSFC. His "Intelligent Network Management and Control System" has seen large-scale deployment across 15 provincial units, including China Mobile and China Unicom.
+His team has been recognized as an Innovation Team by the Ministry of Education and an Innovation Group by the NSFC. 
+
+His "Intelligent Network Management and Control System" has seen large-scale deployment across 15 provincial units, including China Mobile and China Unicom.
 
 <font size="6">Key Awards:</font>
 
