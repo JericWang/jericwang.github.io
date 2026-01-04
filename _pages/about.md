@@ -31,7 +31,9 @@ Lead, Intelligent Everything  (IE Corps, 万物有灵战队) | Team Homepage: <a
 
 <font size="6">Biography & Research Interests:</font>
 
-With a dual background in industry and academia, Professor Wang focuses on the intersection of Communication Networks and Artificial Intelligence. His research emphasizes understanding human-computer interaction and control decision-making, advancing the theoretical framework and engineering practice of the transition from the Internet of Everything (IoE) to Intent-Driven Networking (IDN).
+With dual background in industry and academia, Prof. Wang focuses on the intersection of Communication Networks and Artificial Intelligence. 
+
+His research emphasizes understanding human-computer interaction and control decision-making, advancing the theoretical framework and engineering practice of the transition from the Internet of Everything (IoE) to Intent-Driven Networking (IDN).
 
 <font size="6">His representative achievements span across:</font>
 
