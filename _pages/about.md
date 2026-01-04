@@ -23,7 +23,7 @@ social: true  # includes social icons at the bottom of the page
 
 ---
 
-Jingyu (Jeric) Wang is a Tenured Professor of School of Computer Science, <a href="https://www.bupt.edu.cn/">Beijing University of Posts and Telecommunications (BUPT)</a>, 
+Jingyu (Jeric) Wang is a <b>Tenured Professor</b> of School of Computer Science, <a href="https://www.bupt.edu.cn/">Beijing University of Posts and Telecommunications (BUPT)</a>, 
 
 Director, Network Intelligence Research Center (NIRC) in the <a href="https://sklnst.bupt.edu.cn/">State Key Laboratory of Networking and Switching Technology</a>.
 
@@ -53,13 +53,7 @@ Professor Wang is the <b>Changjiang Scholar </b> (Ministry of Education) and Fel
 
 He is consistently ranked among Stanford’s World’s Top 2% Scientists.
 
-Expert Roles: 
-
-Honorarily Appointed Expert for China Mobile; 
-
-Huawei Think Tank Expert; 
-
-Review Expert for the NSFC, Ministry of Science and Technology, and Ministry of Education.
+Expert Roles: China Mobile, Huawei, NSFC, Ministry of Science and Technology, and Ministry of Education.
 
 <font size="6">Leadership in Professional Organizations:</font>
 
