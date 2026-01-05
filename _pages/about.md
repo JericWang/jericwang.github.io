@@ -107,23 +107,24 @@ He has pioneered a comprehensive framework for intent-driven intelligence, bridg
 
 <font size="6">His representative Academic Contributions:</font>
 
-1. Intent-Driven Intelligent Networking and Policy Verification:
+<b>1. Intent-Driven Intelligent Networking and Policy Verification</b>
+
 He developed an intent-driven architecture for autonomous network management, employing formal verification methods such as edge-predicates to achieve real-time policy validation under high-volume traffic conditions. His research on service-migration-driven configuration synthesis enables rapid network reconfiguration and service assurance, significantly enhancing the reliability and automation of large-scale communication systems.
   
-5. Machine Learning Systems and Foundation Model Optimization:
+<b>2. Machine Learning Systems and Foundation Model Optimization</b>
 
 To overcome deployment barriers on resource-constrained edge devices, he advanced deep learning acceleration through dynamic granularity zoning and decentralized learning. His work in large language model optimization—specifically through attention-based cache compression and quantization—reduces hardware dependency for intelligent model execution across heterogeneous clusters.
 
-5. Multimodal Time Series Analysis and Intelligent Operations:
+<b>3. Multimodal Time Series Analysis and Intelligent Operations</b>
 
 He established a unified multimodal paradigm for time series analysis, converting continuous numerical sequences into discrete semantic representations to enable cross-modal alignment and zero-shot forecasting. Furthermore, he enhanced the resilience of complex microservice environments by leveraging large language models for log summarization, root cause analysis, and automated fault resolution.
 
   
-5. Cognition-Guided Visual Semantics and Intent Insight:
+<b>4. Cognition-Guided Visual Semantics and Intent Insight</b>
 
 He introduced a cognition-guided framework for visual analysis that utilizes explicit logical constraints and implicit prior knowledge to model complex relationships between objects and scenes. Additionally, his research clarifies the internal reasoning patterns of large language models, proposing metrics to distinguish between structured reasoning and statistical shortcuts to improve the transparency and truthfulness of vision-language models.
 
-5. High-Precision Pose Estimation and Natural Interaction Paradigms:
+<b>5. High-Precision Pose Estimation and Natural Interaction Paradigms</b>
    
 In the field of pose estimation, he resolved the challenges of self-occlusion and depth ambiguity through the fusion of multi-modal representations, including images, point clouds, and 3D Gaussian splatting. His innovations in calibration-free multiview reconstruction and kinematic-based mid-air handwriting recognition have defined new paradigms for natural, non-contact human-computer interaction in immersive environments.
 
