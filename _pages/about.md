@@ -31,8 +31,8 @@ Director, Network Intelligence Research Center (NIRC) in the <a href="https://sk
 
 Lead, Intelligent Everything  (IE Corps, 万物有灵战队) | Team Homepage: <a href="https://nirc.top/">https://nirc.top/</a>
 
-Fellow of the <a href="https://www.china-cic.cn/">China Institute of Communications</a>. 
 
+Fellow of the <a href="https://www.china-cic.cn/">China Institute of Communications</a>. 
 
 <font size="6">Notable Milestones:</font>
 
