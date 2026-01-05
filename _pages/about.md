@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: Prof.
 permalink: /
 description: Ph.D.
 
@@ -23,13 +23,13 @@ social: true  # includes social icons at the bottom of the page
 
 ---
 
-Jingyu (Jeric) Wang is a <b>Tenured Professor</b> of School of Computer Science, <a href="https://www.bupt.edu.cn/">Beijing University of Posts and Telecommunications (BUPT)</a>, 
+Jingyu (Jeric) Wang [ <a href="https://teacher.bupt.edu.cn/wangjingyu">王敬宇</a>] is a <b>Tenured Professor</b> of School of Computer Science, <a href="https://www.bupt.edu.cn/">Beijing University of Posts and Telecommunications (BUPT)</a>.
 
-<b>Changjiang Scholar </b> (Ministry of Education)
+<b>Changjiang Scholar </b> (Ministry of Education of China).
 
 Director, Network Intelligence Research Center (NIRC) in the <a href="https://sklnst.bupt.edu.cn/">State Key Laboratory of Networking and Switching Technology</a>.
 
-Lead, Intelligent Everything  (IE Corps, 万物有灵战队) | Team Homepage: <a href="https://nirc.top/">https://nirc.top/</a>
+Lead, Intelligent Everything  (IE Corps, 万物有灵战队) | Team Homepage: <a href="https://nirc.top/">https://nirc.top/</a>.
 
 <font size="6">Notable Milestones:</font>
 
