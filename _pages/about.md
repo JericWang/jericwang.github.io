@@ -51,14 +51,6 @@ Expert Roles: China Mobile, Huawei, NSFC, Ministry of Science and Technology, an
 
 1*Beijing Science and Technology Progress Award.
 
-<font size="6">Publications & Academic Achievements:</font>
-
-He has published over 300 high-level papers in top-tier (CCF-A) journals and conferences, including:
-
-Journals: IEEE ToN, JSAC, TPDS, TDSC, TMC, TKDE, TIP, TSE, TSC, ACM TACO and so on.
-
-Conferences: USENIX NSDI, ATC; ACM SIGCOMM, ASPLOS, SIGMOD, EuroSys, CSCW, EuroSys; IEEE INFOCOM; NeurIPS, ACL, CVPR and so on.
-
 <font size="6">Notable Milestones:</font>
 
 Published BUPT’s first-ever papers in premier global venues such as NSDI, ASPLOS, SIGMOD, EuroSys, and CSCW.
@@ -87,6 +79,14 @@ His team has been recognized as an Innovation Team by the Ministry of Education 
 
 His "Intelligent Network Management and Control System" has seen large-scale deployment across 15 provincial units, including China Mobile and China Unicom.
 
+<font size="6">Publications & Academic Achievements:</font>
+
+He has published over 300 high-level papers in top-tier (CCF-A) journals and conferences, including:
+
+Journals: IEEE ToN, JSAC, TPDS, TDSC, TMC, TKDE, TIP, TSE, TSC, ACM TACO and so on.
+
+Conferences: USENIX NSDI, ATC; ACM SIGCOMM, ASPLOS, SIGMOD, EuroSys, CSCW, EuroSys; IEEE INFOCOM; NeurIPS, ACL, CVPR and so on.
+
 <font size="6">Leadership in Professional Organizations:</font>
 
 Chair of TG5 and TSC Member of <a href="https://www.6g-ana.com/">6GANA</a>.
@@ -106,7 +106,7 @@ His research emphasizes understanding human-computer interaction and control dec
 
 He has pioneered a comprehensive framework for intent-driven intelligence, bridging the gap between networking infrastructure and artificial intelligence. His research integrates computing network orchestration, efficient model deployment, and high-level semantic understanding to address the challenge of translating physical signals into human intent within large-scale, complex environments. This work has enabled a transition from basic connectivity to autonomous, intent-aware intelligence, with widespread applications in national infrastructure and industrial sectors.
 
-<font size="6">His representative Academic Contributions:</font>
+<font size="6">Representative Academic Contributions:</font>
 
 <b>1. Intent-Driven Intelligent Networking and Policy Verification</b>
 
