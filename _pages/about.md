@@ -98,7 +98,8 @@ With dual background in industry and academia, Prof. Wang focuses on the interse
 
 His research emphasizes understanding human-computer interaction and control decision-making, advancing the theoretical framework and engineering practice of the transition from the Internet of Everything (IoE) to Intent-Driven Intelligence (IDI).
 
-He has pioneered a comprehensive theoretical and practical framework for intent-driven intelligence, effectively bridging the gap between ubiquitous computing networks and artificial intelligence. His research addresses the fundamental challenge of translating physical signals into high-level human intent within large-scale, heterogeneous environments. By integrating networking orchestration, high-performance system deployment, and deep semantic understanding, he has enabled the transition from basic connectivity to autonomous, intent-aware digital organisms, with his systems seeing scale application across national critical infrastructure and industrial sectors.
+He has pioneered a comprehensive theoretical and practical framework for 
+<a href="https://jericwang.github.io/_data/Pioneering_IntentDriven_Intelligence_Research_Achievements.pdf">intent-driven intelligence</a>, effectively bridging the gap between ubiquitous computing networks and artificial intelligence. His research addresses the fundamental challenge of translating physical signals into high-level human intent within large-scale, heterogeneous environments. By integrating networking orchestration, high-performance system deployment, and deep semantic understanding, he has enabled the transition from basic connectivity to autonomous, intent-aware digital organisms, with his systems seeing scale application across national critical infrastructure and industrial sectors.
 
 <font size="6">Representative Academic Contributions:</font>
 
