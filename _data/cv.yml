@@ -15,12 +15,8 @@
       institution: Beijing University of Posts and Telecommunications (BUPT), Beijing, China
       year: 2003-2008
       description:
-        - Computer Science (M.S. & Ph.D. program), Advisor: Jianxin Liao
-    - title: B.Eng.
-      institution: Changchun University of Technology, Jilin, China
-      year: 1997-2001
-      description:
-        - Computer Science
+        - Computer Science (M.S. & Ph.D. program)
+
 
 - title: Experience
   type: time_table
