@@ -30,24 +30,6 @@ Director, Network Intelligence Research Center (NIRC) in the <a href="https://sk
 Lead, Intelligent Everything  (IE Corps, 万物有灵战队) | Team Homepage: <a href="https://nirc.top/">https://nirc.top/</a>
 
 
-<font size="6">Biography & Research Interests:</font>
-
-With dual background in industry and academia, Prof. Wang focuses on the intersection of Communication Networks and Artificial Intelligence. 
-
-His research emphasizes understanding human-computer interaction and control decision-making, advancing the theoretical framework and engineering practice of the transition from the Internet of Everything (IoE) to Intent-Driven Networking (IDN).
-
-<font size="6">His representative achievements span across:</font>
-
-Computing-Aware Networking (CAN) & Multi-Agent Networking
-
-Intent Configuration Generation & Intelligent Operations and Maintenance (AIOps)
-
-Knowledge-Defined Networking (KDN)
-
-Bare-hand Interaction & Intelligent Model Acceleration
-
-Multi-path Transmission
-
 <font size="6">Honors & Professional Services:</font>
 
 Changjiang Scholar </b> (Ministry of Education)
@@ -114,6 +96,36 @@ Director/Board Member: International Society of Intelligent Networking and Syste
 Software Defined Interconnection Technology and Industry Alliance.
 
 Committee Member: Computing Power Network and Digital Twin Committees of CIC; Computing Power Network Committee of the China Information Association.
+
+<font size="6">Biography & Research Interests:</font>
+
+With dual background in industry and academia, Prof. Wang focuses on the intersection of Communication Networks and Artificial Intelligence. 
+
+His research emphasizes understanding human-computer interaction and control decision-making, advancing the theoretical framework and engineering practice of the transition from the Internet of Everything (IoE) to Intent-Driven Intelligence (IDI).
+
+He has pioneered a comprehensive framework for intent-driven intelligence, bridging the gap between networking infrastructure and artificial intelligence. His research integrates computing network orchestration, efficient model deployment, and high-level semantic understanding to address the challenge of translating physical signals into human intent within large-scale, complex environments. This work has enabled a transition from basic connectivity to autonomous, intent-aware intelligence, with widespread applications in national infrastructure and industrial sectors.
+
+<font size="6">His representative Academic Contributions:</font>
+
+1. Intent-Driven Intelligent Networking and Policy Verification:
+He developed an intent-driven architecture for autonomous network management, employing formal verification methods such as edge-predicates to achieve real-time policy validation under high-volume traffic conditions. His research on service-migration-driven configuration synthesis enables rapid network reconfiguration and service assurance, significantly enhancing the reliability and automation of large-scale communication systems.
+  
+5. Machine Learning Systems and Foundation Model Optimization:
+
+To overcome deployment barriers on resource-constrained edge devices, he advanced deep learning acceleration through dynamic granularity zoning and decentralized learning. His work in large language model optimization—specifically through attention-based cache compression and quantization—reduces hardware dependency for intelligent model execution across heterogeneous clusters.
+
+5. Multimodal Time Series Analysis and Intelligent Operations:
+
+He established a unified multimodal paradigm for time series analysis, converting continuous numerical sequences into discrete semantic representations to enable cross-modal alignment and zero-shot forecasting. Furthermore, he enhanced the resilience of complex microservice environments by leveraging large language models for log summarization, root cause analysis, and automated fault resolution.
+
+  
+5. Cognition-Guided Visual Semantics and Intent Insight:
+
+He introduced a cognition-guided framework for visual analysis that utilizes explicit logical constraints and implicit prior knowledge to model complex relationships between objects and scenes. Additionally, his research clarifies the internal reasoning patterns of large language models, proposing metrics to distinguish between structured reasoning and statistical shortcuts to improve the transparency and truthfulness of vision-language models.
+
+5. High-Precision Pose Estimation and Natural Interaction Paradigms:
+   
+In the field of pose estimation, he resolved the challenges of self-occlusion and depth ambiguity through the fusion of multi-modal representations, including images, point clouds, and 3D Gaussian splatting. His innovations in calibration-free multiview reconstruction and kinematic-based mid-air handwriting recognition have defined new paradigms for natural, non-contact human-computer interaction in immersive environments.
 
 
 <font size="6">Teaching:</font>
