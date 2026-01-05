@@ -29,27 +29,10 @@ Director, Network Intelligence Research Center (NIRC) in the <a href="https://sk
 
 Lead, Intelligent Everything  (IE Corps, 万物有灵战队) | Team Homepage: <a href="https://nirc.top/">https://nirc.top/</a>
 
-
-
-<font size="6">Honors & Professional Services:</font>
-
 Changjiang Scholar </b> (Ministry of Education)
 
 Fellow of the <a href="https://www.china-cic.cn/">China Institute of Communications</a>. 
 
-Stanford’s World’s Top 2% Scientists.
-
-Expert Roles: China Mobile, Huawei, NSFC, Ministry of Science and Technology, and Ministry of Education.
-
-<font size="6">Key Awards:</font>
-
-<b>1*State Science and Technology Progress Award.</b>
-
-3*CIC Science and Technology Progress Awards.
-
-2*Ministry of Education Science and Technology Progress Awards.
-
-1*Beijing Science and Technology Progress Award.
 
 <font size="6">Notable Milestones:</font>
 
@@ -87,6 +70,18 @@ Journals: IEEE ToN, JSAC, TPDS, TDSC, TMC, TKDE, TIP, TSE, TSC, ACM TACO and so 
 
 Conferences: USENIX NSDI, ATC; ACM SIGCOMM, ASPLOS, SIGMOD, EuroSys, CSCW, EuroSys; IEEE INFOCOM; NeurIPS, ACL, CVPR and so on.
 
+<font size="6">Key Awards:</font>
+
+<b>1*State Science and Technology Progress Award.</b>
+
+3*CIC Science and Technology Progress Awards.
+
+2*Ministry of Education Science and Technology Progress Awards.
+
+1*Beijing Science and Technology Progress Award.
+
+Stanford’s World’s Top 2% Scientists.
+
 <font size="6">Leadership in Professional Organizations:</font>
 
 Chair of TG5 and TSC Member of <a href="https://www.6g-ana.com/">6GANA</a>.
@@ -104,7 +99,7 @@ With dual background in industry and academia, Prof. Wang focuses on the interse
 
 His research emphasizes understanding human-computer interaction and control decision-making, advancing the theoretical framework and engineering practice of the transition from the Internet of Everything (IoE) to Intent-Driven Intelligence (IDI).
 
-He has pioneered a comprehensive framework for intent-driven intelligence, bridging the gap between networking infrastructure and artificial intelligence. His research integrates computing network orchestration, efficient model deployment, and high-level semantic understanding to address the challenge of translating physical signals into human intent within large-scale, complex environments. This work has enabled a transition from basic connectivity to autonomous, intent-aware intelligence, with widespread applications in national infrastructure and industrial sectors.
+He has pioneered a comprehensive theoretical and practical framework for intent-driven intelligence, effectively bridging the gap between ubiquitous computing networks and artificial intelligence. His research addresses the fundamental challenge of translating physical signals into high-level human intent within large-scale, heterogeneous environments. By integrating networking orchestration, high-performance system deployment, and deep semantic understanding, he has enabled the transition from basic connectivity to autonomous, intent-aware digital organisms, with his systems seeing scale application across national critical infrastructure and industrial sectors.
 
 <font size="6">Representative Academic Contributions:</font>
 
@@ -114,20 +109,20 @@ He developed an intent-driven architecture for autonomous network management, em
   
 <b>2. Machine Learning Systems and Foundation Model Optimization</b>
 
-To overcome deployment barriers on resource-constrained edge devices, he advanced deep learning acceleration through dynamic granularity zoning and decentralized learning. His work in large language model optimization—specifically through attention-based cache compression and quantization—reduces hardware dependency for intelligent model execution across heterogeneous clusters.
+To overcome the barriers of deploying complex models on resource-constrained edge devices, he pioneered deep learning acceleration techniques using dynamic granularity zoning and decentralized learning architectures. He optimized large language model operations through attention-based cache compression and channel-wise quantization, effectively reducing hardware dependency for executing intelligent models across heterogeneous edge clusters.
 
 <b>3. Multimodal Time Series Analysis and Intelligent Operations</b>
 
-He established a unified multimodal paradigm for time series analysis, converting continuous numerical sequences into discrete semantic representations to enable cross-modal alignment and zero-shot forecasting. Furthermore, he enhanced the resilience of complex microservice environments by leveraging large language models for log summarization, root cause analysis, and automated fault resolution.
+He established a unified multimodal paradigm for time series analysis by conceptualizing numerical data as discrete semantic tokens, enabling zero-shot forecasting and seamless cross-modal alignment. Furthermore, he enhanced the intelligence of system operations (AIOps) by leveraging large language models for log parsing, semantic association mining, and automated resolution generation for complex microservice failures.
 
   
 <b>4. Cognition-Guided Visual Semantics and Intent Insight</b>
 
-He introduced a cognition-guided framework for visual analysis that utilizes explicit logical constraints and implicit prior knowledge to model complex relationships between objects and scenes. Additionally, his research clarifies the internal reasoning patterns of large language models, proposing metrics to distinguish between structured reasoning and statistical shortcuts to improve the transparency and truthfulness of vision-language models.
+He introduced a cognition-guided visual analysis framework that incorporates explicit logical constraints and implicit prior knowledge to model complex relationships between objects and scenes. His work also clarifies the internal reasoning mechanisms of large language models, providing metrics to distinguish between structured reasoning and statistical shortcuts, which significantly improves the truthfulness and transparency of vision-language models.
 
 <b>5. High-Precision Pose Estimation and Natural Interaction Paradigms</b>
    
-In the field of pose estimation, he resolved the challenges of self-occlusion and depth ambiguity through the fusion of multi-modal representations, including images, point clouds, and 3D Gaussian splatting. His innovations in calibration-free multiview reconstruction and kinematic-based mid-air handwriting recognition have defined new paradigms for natural, non-contact human-computer interaction in immersive environments.
+In the field of high-precision pose estimation, he resolved long-standing challenges of self-occlusion and depth ambiguity by fusing multimodal representations such as images, point clouds, and 3D Gaussian splatting. His development of calibration-free multiview reconstruction and kinematic-driven mid-air handwriting recognition has defined new paradigms for natural, non-contact human-computer interaction in immersive spatial computing environments.
 
 
 <font size="6">Teaching:</font>
