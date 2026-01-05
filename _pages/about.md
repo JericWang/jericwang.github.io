@@ -31,9 +31,6 @@ Director, Network Intelligence Research Center (NIRC) in the <a href="https://sk
 
 Lead, Intelligent Everything  (IE Corps, 万物有灵战队) | Team Homepage: <a href="https://nirc.top/">https://nirc.top/</a>
 
-
-Fellow of the <a href="https://www.china-cic.cn/">China Institute of Communications</a>. 
-
 <font size="6">Notable Milestones:</font>
 
 Published BUPT’s first-ever papers in premier global venues such as NSDI, ASPLOS, SIGMOD, EuroSys, and CSCW.
@@ -83,6 +80,8 @@ Conferences: USENIX NSDI, ATC; ACM SIGCOMM, ASPLOS, SIGMOD, EuroSys, CSCW, EuroS
 Stanford’s World’s Top 2% Scientists.
 
 <font size="6">Leadership in Professional Organizations:</font>
+
+Fellow of the <a href="https://www.china-cic.cn/">China Institute of Communications</a>. 
 
 Chair of TG5 and TSC Member of <a href="https://www.6g-ana.com/">6GANA</a>.
 
