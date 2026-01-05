@@ -23,9 +23,9 @@ social: true  # includes social icons at the bottom of the page
 
 ---
 
-Jingyu (Jeric) Wang [ <a href="https://teacher.bupt.edu.cn/wangjingyu">王敬宇</a>] is a <b>Tenured Professor</b> of School of Computer Science, <a href="https://www.bupt.edu.cn/">Beijing University of Posts and Telecommunications (BUPT)</a>.
+Jingyu (Jeric) Wang [ <a href="https://teacher.bupt.edu.cn/wangjingyu">王敬宇</a> ] is a <b>Tenured Professor</b> of <a href="https://scs.bupt.edu.cn/">School of Computer Science</a>, <a href="https://www.bupt.edu.cn/">Beijing University of Posts and Telecommunications (BUPT)</a>.
 
-<b>Changjiang Scholar </b> (Ministry of Education of China).
+<b>Changjiang Scholar </b> (<a href="http://www.moe.gov.cn/">Ministry of Education of China</a>). 
 
 Director, Network Intelligence Research Center (NIRC) in the <a href="https://sklnst.bupt.edu.cn/">State Key Laboratory of Networking and Switching Technology</a>.
 
@@ -45,7 +45,7 @@ Intellectual Property: 5 authorized U.S. patents, 50+ authorized Chinese patents
 
 Books: Intelligent Service Cloud Networks, Key Technologies for 6G Network On-demand Services, and Deep Reinforcement Learning in Network Intelligence.
 
-Open Source: Lead contributor to OPNFV Compass (OpenStack community) and contributor to the TVM machine learning compiler.
+Open Source: Lead contributor to OPNFV Compass (OpenStack community) and contributor to the <a href=" https://tvm.apache.org/">Apache TVM</a> machine learning compiler.
 
 Competitions: Led teams to multiple championships in international competitions including AITrans、ACM MM、ACM MMSys、SemEval、ICCV Hands、Apollo and so on.
 
