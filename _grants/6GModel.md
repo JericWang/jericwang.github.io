@@ -1,5 +1,5 @@
-layout: 
-post date_start: 2024-01-01 00:00:00-0000 
+layout: post 
+date_start: 2024-01-01 00:00:00-0000 
 date_end: 2027-12-31 00:00:00-0000 
 inline: true
 
