@@ -1,6 +1,6 @@
 ---
 layout: about
-title: Prof.
+title: about
 permalink: /
 description: Ph.D.
 
