@@ -23,7 +23,7 @@ social: true  # includes social icons at the bottom of the page
 
 ---
 
-Jingyu (Jeric) Wang [ <a href="https://teacher.bupt.edu.cn/wangjingyu">王敬宇</a> ] is a <b>Tenured Professor</b> of <a href="https://scs.bupt.edu.cn/">School of Computer Science</a>, <a href="https://www.bupt.edu.cn/">Beijing University of Posts and Telecommunications (BUPT)</a>.
+Jingyu (Jeric) Wang [ <a href="https://teacher.bupt.edu.cn/wangjingyu">王敬宇</a> ] is <b>Tenured Professor</b> of <a href="https://scs.bupt.edu.cn/">School of Computer Science</a>, <a href="https://www.bupt.edu.cn/">Beijing University of Posts and Telecommunications (BUPT)</a>.
 
 <b>Changjiang Scholar </b> (<a href="http://www.moe.gov.cn/">Ministry of Education of China</a>). 
 
