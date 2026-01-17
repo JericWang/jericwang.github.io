@@ -61,23 +61,23 @@ His "Intelligent Network Management and Control System" has seen large-scale dep
 
 <font size="6">Publications & Academic Achievements:</font>
 
-He has published over 300 high-level papers in top-tier (CCF-A) journals and conferences, including:
+He has published over 300 high-level papers in top-tier (CCF-A/B or Q1/Q2) journals and conferences, including:
 
-Journals: IEEE ToN, JSAC, TPDS, TDSC, TMC, TKDE, TIP, TSE, TSC, ACM TACO and so on.
+Conferences: USENIX NSDI, ATC; ACM SIGCOMM, ASPLOS, SIGMOD, EuroSys, CSCW, CHI, EuroSys; IEEE INFOCOM, VR, CVPR, ICCV; NeurIPS, ACL and so on.
 
-Conferences: USENIX NSDI, ATC; ACM SIGCOMM, ASPLOS, SIGMOD, EuroSys, CSCW, EuroSys; IEEE INFOCOM; NeurIPS, ACL, CVPR and so on.
+Journals: ACM TACO, IEEE ToN, JSAC, TPDS, TDSC, TMC, TKDE, TIP, TSE, TSC, and so on.
 
 <font size="6">Key Awards:</font>
 
-<b>1*State Science and Technology Progress Award.(2023)</b>
+<b>1*State Science and Technology Progress Award (2023).</b>
 
-3*CIC Science and Technology Progress Awards.(2014,2021,2025)
+3*CIC Science and Technology Progress Awards (2014,2021,2025).
 
-2*Ministry of Education Science and Technology Progress Awards.(2013,2019)
+2*Ministry of Education Science and Technology Progress Awards (2013,2019).
 
-1*Beijing Science and Technology Progress Award.(2024)
+1*Beijing Science and Technology Progress Award (2024).
 
-Stanford’s World’s Top 2% Scientists.
+Stanford’s World’s Top 2% Scientists (2024,2025).
 
 <font size="6">Leadership in Professional Organizations:</font>
 
@@ -87,7 +87,7 @@ Chair of TG5 and TSC Member of <a href="https://www.6g-ana.com/">6GANA</a>.
 
 Vice Chair of AI Edge TG2.
 
-Director/Board Member: International Society of Intelligent Networking and Systems (INSAI); Global Network Innovation Alliance (NIDA); 
+Director/Board Member: International Society of Intelligent Networking and Systems (<a href="https://ainsai.org/">INSAI</a>); Global Network Innovation Alliance (NIDA); 
 Software Defined Interconnection Technology and Industry Alliance.
 
 Committee Member: Computing Power Network and Digital Twin Committees of CIC; Computing Power Network Committee of the China Information Association.
