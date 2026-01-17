@@ -43,7 +43,7 @@ Multiple ESI Highly Cited Papers.
 
 Intellectual Property: 5 authorized U.S. patents, 50+ authorized Chinese patents, and 10+ standardized contributions (3GPP, IETF, ETSI, CCSA).
 
-Books: Intelligent Service Cloud Networks, Key Technologies for 6G Network On-demand Services, Deep Reinforcement Learning in Network Intelligence, <a href=" https://link.springer.com/book/10.1007/978-3-031-70606-6">Key Technologies for On-Demand 6G Network Services</a>.
+Books: <a href="http://product.dangdang.com/25123764.html">Intelligent Service Cloud Networks</a>, Key Technologies for 6G Network On-demand Services (<a href="https://product.dangdang.com/11038037623.html">Chinese Version</a>, <a href="https://link.springer.com/book/10.1007/978-3-031-70606-6">Springer Version</a>), <a href="https://product.dangdang.com/11955535543.html">Deep Reinforcement Learning in Network Intelligence</a>.
 
 Open Source: Lead contributor to OPNFV Compass (OpenStack community) and contributor to the <a href=" https://tvm.apache.org/">Apache TVM</a> machine learning compiler.
 
