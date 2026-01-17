@@ -39,11 +39,11 @@ Published BUPT’s first-ever papers in premier global venues such as NSDI, ASPL
 
 IEEE Systems Journal 2021 Best Paper Award.
 
-multiple ESI Highly Cited Papers.
+Multiple ESI Highly Cited Papers.
 
 Intellectual Property: 5 authorized U.S. patents, 50+ authorized Chinese patents, and 10+ standardized contributions (3GPP, IETF, ETSI, CCSA).
 
-Books: Intelligent Service Cloud Networks, Key Technologies for 6G Network On-demand Services, and Deep Reinforcement Learning in Network Intelligence.
+Books: Intelligent Service Cloud Networks, Key Technologies for 6G Network On-demand Services, Deep Reinforcement Learning in Network Intelligence, <a href=" https://link.springer.com/book/10.1007/978-3-031-70606-6">Key Technologies for On-Demand 6G Network Services</a>.
 
 Open Source: Lead contributor to OPNFV Compass (OpenStack community) and contributor to the <a href=" https://tvm.apache.org/">Apache TVM</a> machine learning compiler.
 
@@ -69,19 +69,19 @@ Conferences: USENIX NSDI, ATC; ACM SIGCOMM, ASPLOS, SIGMOD, EuroSys, CSCW, EuroS
 
 <font size="6">Key Awards:</font>
 
-<b>1*State Science and Technology Progress Award.</b>
+<b>1*State Science and Technology Progress Award.(2023)</b>
 
-3*CIC Science and Technology Progress Awards.
+3*CIC Science and Technology Progress Awards.(2014,2021,2025)
 
-2*Ministry of Education Science and Technology Progress Awards.
+2*Ministry of Education Science and Technology Progress Awards.(2013,2019)
 
-1*Beijing Science and Technology Progress Award.
+1*Beijing Science and Technology Progress Award.(2024)
 
 Stanford’s World’s Top 2% Scientists.
 
 <font size="6">Leadership in Professional Organizations:</font>
 
-Fellow of the <a href="https://www.china-cic.cn/">China Institute of Communications</a>. 
+Fellow of the <a href="https://www.china-cic.cn/">China Institute of Communications(CIC)</a>. 
 
 Chair of TG5 and TSC Member of <a href="https://www.6g-ana.com/">6GANA</a>.
 
@@ -96,10 +96,10 @@ Committee Member: Computing Power Network and Digital Twin Committees of CIC; Co
 
 With dual background in industry and academia, Prof. Wang focuses on the intersection of Communication Networks and Artificial Intelligence. 
 
-His research emphasizes understanding human-computer interaction and control decision-making, advancing the theoretical framework and engineering practice of the transition from the Internet of Everything (IoE) to Intent-Driven Intelligence (IDI).
+His research emphasizes understanding human-computer interaction and control decision-making, advancing the theoretical framework and engineering practice of the transition from the Internet of Everything (IoE) to <a href="https://jericwang.github.io/assets/Pioneering_IntentDriven_Intelligence_Research_Achievements.pdf">Intent-Driven Intelligence (IDI)</a>.
 
 He has pioneered a comprehensive theoretical and practical framework for 
-<a href="https://jericwang.github.io/assets/Pioneering_IntentDriven_Intelligence_Research_Achievements.pdf">intent-driven intelligence</a>, effectively bridging the gap between ubiquitous computing networks and artificial intelligence. His research addresses the fundamental challenge of translating physical signals into high-level human intent within large-scale, heterogeneous environments. By integrating networking orchestration, high-performance system deployment, and deep semantic understanding, he has enabled the transition from basic connectivity to autonomous, intent-aware digital organisms, with his systems seeing scale application across national critical infrastructure and industrial sectors.
+<a href="https://jericwang.github.io/assets/Pioneering_IntentDriven_Intelligence_Research_Achievements.pdf">Intent-Driven Intelligence</a>, effectively bridging the gap between ubiquitous computing networks and artificial intelligence. His research addresses the fundamental challenge of translating physical signals into high-level human intent within large-scale, heterogeneous environments. By integrating networking orchestration, high-performance system deployment, and deep semantic understanding, he has enabled the transition from basic connectivity to autonomous, intent-aware digital organisms, with his systems seeing scale application across national critical infrastructure and industrial sectors.
 
 <font size="6">Representative Academic Contributions:</font>
 
