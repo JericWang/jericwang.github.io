@@ -96,10 +96,10 @@ Committee Member: Computing Power Network and Digital Twin Committees of CIC; Co
 
 With dual background in industry and academia, Prof. Wang focuses on the intersection of Communication Networks and Artificial Intelligence. 
 
-His research emphasizes understanding human-computer interaction and control decision-making, advancing the theoretical framework and engineering practice of the transition from the Internet of Everything (IoE) to <a href="https://jericwang.github.io/assets/Intent Cognitive Synergy.pdf">Intent Cognitive Synergy (ICS)</a>.
+His research emphasizes understanding human-computer interaction and control decision-making, advancing the theoretical framework and engineering practice of the transition from the Internet of Everything (IoE) to <a href="https://jericwang.github.io/assets/Intent_Cognitive_Synergy.pdf">Intent Cognitive Synergy (ICS)</a>.
 
 He has pioneered a comprehensive theoretical and practical framework for 
-<a href="https://jericwang.github.io/assets/Intent Cognitive Synergy.pdf">Intent Cognitive Synergy</a>, effectively bridging the gap between ubiquitous computing networks and artificial intelligence. His research addresses the fundamental challenge of translating physical signals into high-level human intent within large-scale, heterogeneous environments. By integrating networking orchestration, high-performance system deployment, and deep semantic understanding, he has enabled the transition from basic connectivity to autonomous, intent-aware digital organisms, with his systems seeing scale application across national critical infrastructure and industrial sectors.
+<a href="https://jericwang.github.io/assets/Intent_Cognitive_Synergy.pdf">Intent Cognitive Synergy</a>, effectively bridging the gap between ubiquitous computing networks and artificial intelligence. His research addresses the fundamental challenge of translating physical signals into high-level human intent within large-scale, heterogeneous environments. By integrating networking orchestration, high-performance system deployment, and deep semantic understanding, he has enabled the transition from basic connectivity to autonomous, intent-aware digital organisms, with his systems seeing scale application across national critical infrastructure and industrial sectors.
 
 <font size="6">Representative Academic Contributions:</font>
 
