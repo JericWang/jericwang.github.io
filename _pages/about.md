@@ -36,7 +36,7 @@ Lead, Intelligent Everything  (IE Corps, 万物有灵战队) | Team Homepage: <a
 <font size="5">Notable Milestones:</font>
 
 
-Published BUPT’s first-ever papers in premier global venues such as NSDI, ASPLOS, SIGMOD, EuroSys, and CSCW.
+Published BUPT’s first-ever papers in premier global venues such as NSDI, ASPLOS, SIGMOD, EuroSys, CSCW, CHI, VR and so on.
 
 <b>AAAI 2023 Distinguished Paper Award.</b>
 
