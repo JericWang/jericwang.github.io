@@ -31,7 +31,7 @@ Director, Network Intelligence Research Center (NIRC) in the <a href="https://sk
 
 Lead, Intelligent Everything  (IE Corps, 万物有灵战队) | Team Homepage: <a href="https://nirc.top/">https://nirc.top/</a>.
 
--------------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------
 
 <font size="5">Notable Milestones:</font>
 
@@ -133,3 +133,4 @@ In the field of high-precision pose estimation, he resolved long-standing challe
 He is teaching cutting-edge interdisciplinary courses such as "<b>Intelligent Transportation and Autonomous Driving</b>" as well as computer science courses like <b>Software-Defined Network Technology</b> and <b>Next-Generation Internet Technology and Protocols</b>. 
 
 
+------------------------------------------------------------------------------------------------------
