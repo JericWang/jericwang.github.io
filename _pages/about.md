@@ -31,7 +31,7 @@ Director, Network Intelligence Research Center (NIRC) in the <a href="https://sk
 
 Lead, Intelligent Everything  (IE Corps, 万物有灵战队) | Team Homepage: <a href="https://nirc.top/">https://nirc.top/</a>.
 
-<font size="6">Notable Milestones:</font>
+<font size="5">Notable Milestones:</font>
 
 Published BUPT’s first-ever papers in premier global venues such as NSDI, ASPLOS, SIGMOD, EuroSys, and CSCW.
 
@@ -49,7 +49,7 @@ Open Source: Lead contributor to OPNFV Compass (OpenStack community) and contrib
 
 Competitions: Led teams to multiple championships in international competitions including AITrans、ACM MM、ACM MMSys、SemEval、ICCV Hands、Apollo and so on.
 
-<font size="6">Research Projects & Industrial Impact:</font>
+<font size="5">Research Projects & Industrial Impact:</font>
 
 Professor Wang has served as the Principal Investigator (PI) for over 10 national and ministerial-level projects, including the National Key R&D Program, NSFC Key Projects, the National 973 Program, and son on. 
 
@@ -59,7 +59,7 @@ His team has been recognized as an Innovation Team by the Ministry of Education 
 
 His "Intelligent Network Management and Control System" has seen large-scale deployment across 15 provincial units, including China Mobile and China Unicom.
 
-<font size="6">Publications & Academic Achievements:</font>
+<font size="5">Publications & Academic Achievements:</font>
 
 He has published over 300 high-level papers in top-tier (CCF-A/B or Q1/Q2) journals and conferences, including:
 
@@ -67,7 +67,7 @@ Conferences: USENIX NSDI, ATC; ACM SIGCOMM, ASPLOS, SIGMOD, EuroSys, CSCW, CHI, 
 
 Journals: ACM TACO, IEEE ToN, JSAC, TPDS, TDSC, TMC, TKDE, TIP, TSE, TSC, and so on.
 
-<font size="6">Key Awards:</font>
+<font size="5">Key Awards:</font>
 
 <b>1*State Science and Technology Progress Award (2023).</b>
 
@@ -79,7 +79,7 @@ Journals: ACM TACO, IEEE ToN, JSAC, TPDS, TDSC, TMC, TKDE, TIP, TSE, TSC, and so
 
 Stanford’s World’s Top 2% Scientists (2024,2025).
 
-<font size="6">Leadership in Professional Organizations:</font>
+<font size="5">Leadership in Professional Organizations:</font>
 
 Fellow of the <a href="https://www.china-cic.cn/">China Institute of Communications(CIC)</a>. 
 
@@ -92,7 +92,7 @@ Software Defined Interconnection Technology and Industry Alliance.
 
 Committee Member: Computing Power Network and Digital Twin Committees of CIC; Computing Power Network Committee of the China Information Association.
 
-<font size="6">Biography & Research Interests:</font>
+<font size="5">Biography & Research Interests:</font>
 
 With dual background in industry and academia, Prof. Wang focuses on the intersection of Communication Networks and Artificial Intelligence. 
 
@@ -101,7 +101,7 @@ His research emphasizes understanding human-computer interaction and control dec
 He has pioneered a comprehensive theoretical and practical framework for 
 <a href="https://jericwang.github.io/assets/Intent_Cognitive_Synergy.pdf">Intent Cognitive Synergy</a>, effectively bridging the gap between ubiquitous computing networks and artificial intelligence. His research addresses the fundamental challenge of translating physical signals into high-level human intent within large-scale, heterogeneous environments. By integrating networking orchestration, high-performance system deployment, and deep semantic understanding, he has enabled the transition from basic connectivity to autonomous, intent-aware digital organisms, with his systems seeing scale application across national critical infrastructure and industrial sectors.
 
-<font size="6">Representative Academic Contributions:</font>
+<font size="5">Representative Academic Contributions:</font>
 
 <b>1. Intent-Driven Intelligent Networking and Policy Verification</b>
 
@@ -125,7 +125,7 @@ He introduced a cognition-guided visual analysis framework that incorporates exp
 In the field of high-precision pose estimation, he resolved long-standing challenges of self-occlusion and depth ambiguity by fusing multimodal representations such as images, point clouds, and 3D Gaussian splatting. His development of calibration-free multiview reconstruction and kinematic-driven mid-air handwriting recognition has defined new paradigms for natural, non-contact human-computer interaction in immersive spatial computing environments.
 
 
-<font size="6">Teaching:</font>
+<font size="5">Teaching:</font>
 
 He is teaching cutting-edge interdisciplinary courses such as "<b>Intelligent Transportation and Autonomous Driving</b>" as well as computer science courses like <b>Software-Defined Network Technology</b> and <b>Next-Generation Internet Technology and Protocols</b>. 
 
