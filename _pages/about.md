@@ -110,11 +110,6 @@ He has pioneered a comprehensive theoretical and practical framework for
   <b>Figure 1: From IoE to iLink — The Intent-Driven Intelligence Ecosystem (NIRC, BUPT)</b>
 </p>
 
-### Key Technical Pillars:
-1. **Intelligent Network Management**: Knowledge-Defined IBN & 6G-ADM.
-2. **Video Anomaly Detection**: Open-Vocabulary Perception with VADClip.
-3. **Cross-Reality Interaction**: Self-supervised Pose Estimation & HandRefiner.
-
 
 <font size="5">Representative Academic Contributions:</font>
 
