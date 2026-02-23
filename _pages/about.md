@@ -104,10 +104,16 @@ His research emphasizes understanding human-computer interaction and control dec
 He has pioneered a comprehensive theoretical and practical framework for 
 <a href="https://jericwang.github.io/assets/iLink.png">Intent Agent Link</a>, effectively bridging the gap between ubiquitous computing networks and artificial intelligence. His research addresses the fundamental challenge of translating physical signals into high-level human intent within large-scale, heterogeneous environments. By integrating networking orchestration, high-performance system deployment, and deep semantic understanding, he has enabled the transition from basic connectivity to autonomous, intent-aware digital organisms, with his systems seeing scale application across national critical infrastructure and industrial sectors.
 
-# Project: Intent Agent Link (iLink) 
-## Research Overview
-The transition from IoE to iLink is illustrated in the figure below:
-![iLink Framework Overview]([./images/ilink_overview.png](https://jericwang.github.io/assets/Intent-driven Intelligence.png))
+<p align="center">
+  <img src="https://jericwang.github.io/assets/Intent-driven Intelligence.png" alt="iLink Technical Framework" width="900">
+  <br>
+  <b>Figure 1: From IoE to iLink — The Intent-Driven Intelligence Ecosystem (NIRC, BUPT)</b>
+</p>
+
+### Key Technical Pillars:
+1. **Intelligent Network Management**: Knowledge-Defined IBN & 6G-ADM.
+2. **Video Anomaly Detection**: Open-Vocabulary Perception with VADClip.
+3. **Cross-Reality Interaction**: Self-supervised Pose Estimation & HandRefiner.
 
 
 <font size="5">Representative Academic Contributions:</font>
