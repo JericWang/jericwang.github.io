@@ -1,7 +1,3 @@
-"Sun":
-  - firstname: ["Haifeng"]
-    url: https://scholar.google.com/citations?user=dwhbTsEAAAAJ
-
 "Han":
   - firstname: ["Zhu"]
     url: http://www2.egr.uh.edu/~zhan2/
@@ -17,10 +13,6 @@
   - firstname: ["Li-Chun", "Lichun"]
     url: https://scholar.google.com/citations?user=dtD-PIAAAAAJ
 
-"Qi":
-  - firstname: ["Qi"]
-    url: https://int.bupt.edu.cn/content/content.php?p=6_16_166
-
 "Lent":
   - firstname: ["Ricardo"]
     url: https://uh.edu/~rlent/
@@ -30,10 +22,6 @@
     url: https://dblp.org/pid/98/4254.html
   - firstname: ["Lixiang"]
     url: https://scholar.google.com/citations?hl=en&user=xXyZ2VkAAAAJ
-
-"Liao":
-  - firstname: ["Jianxin"]
-    url: https://int.bupt.edu.cn/content/content.php?p=6_16_159
 
 "Liu":
   - firstname: ["Alex X."]
@@ -73,3 +61,8 @@
   - firstname: ["Zirui"]
     url: https://ziruizhuang.github.io
     
+"Guo":
+  - firstname: ["Song"]
+    url: https://www4.comp.polyu.edu.hk/~cssongguo/
+ 
+
